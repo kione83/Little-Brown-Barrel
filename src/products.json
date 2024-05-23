@@ -1,0 +1,186 @@
+
+[
+    {
+        "name": "William Larue Weller",
+        "description": "Aged to perfection",
+        "price": 1950,
+        "image":"/images/william-larue-weller.webp",
+        "featured": false,
+        "website":"https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller.html"
+    },
+    {
+        "name": "Glenfarclas 25-year",
+        "description": "Highland single malt Scotch",
+        "price": 260,
+        "image":"/images/glenfarclas-25.webp",
+        "featured": false,
+        "website":"https://glenfarclas.com/whisky/"
+    },
+    {
+        "name": "Canadian Club 15-year Sherried Cask Invitation",
+        "description": "Sweet and spicy",
+        "price": 140,
+        "image":"/images/can-club-15.avif",
+        "featured": false,
+        "website":"https://www.canadianclub.com/"
+    },
+    {
+        "name":"Redbreast 12-year",
+        "description": "Single pot",
+        "price": 65,
+        "image":"/images/redbreast-12.webp",
+        "featured":false,
+        "website":"https://www.redbreastwhiskey.com/"
+        
+    },
+    {
+        "name": "Yamazaki 12-year",
+        "description": "Japanese single malt",
+        "price": 165,
+        "image":"/images/yama-12.jpeg",
+        "featured":false,
+        "website":"https://house.suntory.com/products/whisky/"
+    },
+    {
+        "name": "Jameson 18-year",
+        "description": "Irish whiskey",
+        "price": 120,
+        "image":"/images/jameson-18.webp",
+        "featured":false,
+        "website":"https://www.jamesonwhiskey.com/en/"
+    },
+    {
+        "name": "Buffalo Trace Kentucky Straight Bourbon",
+        "description": "Straight bourbon whiskey",
+        "price": 30,
+        "image":"/images/buffalo-trace.jpeg",
+        "featured":false,
+        "website":"https://www.buffalotracedistillery.com/"
+    },
+    {
+        "name": "Pappy Van Winkle 23-year",
+        "description": "Bourbon",
+        "price": 2700,
+        "image":"/images/pappy-23.webp",
+        "featured":false,
+        "website":"https://www.oldripvanwinkle.com/"
+    },
+    {
+        "name": "WhistlePig 15-year",
+        "description": "Small batch rye",
+        "price": 80,
+        "image":"/images/whistlepig-15.webp",
+        "featured":false,
+        "website":"https://whistlepigwhiskey.com/"
+    },
+    {
+        "name": "Elijah Craig Barrel Proof",
+        "description": "12-year bourbon, unfiltered, uncut",
+        "price": 85,
+        "image":"/images/elijah-craig-12.webp",
+        "featured":false,
+        "website":"https://www.elijahcraig.com/"
+    },
+    {
+        "name": "Bushmills Black Bush Whiskey",
+        "description": "Heavy sherry components",
+        "price": 40,
+        "featured":false
+    },
+    {
+        "name": "Monkey Shoulder Blended Malt Scotch",
+        "description": "Blended malt Scotch",
+        "price": 30,
+        "featured":false
+    },
+    {
+        "name": "Field & Sound Bottled in Bond Bourbon",
+        "description": "Straight bourbon whiskey",
+        "price": 55,
+        "featured":false
+    },
+    {
+        "name": "Highland Park 18-year",
+        "description": "Single malt Scotch",
+        "price": 120,
+        "image":"/images/highland-park-18.webp",
+        "featured":false
+    },
+    {
+        "name": "GlenDronach 18-year Allardice",
+        "description": "Single malt Scotch",
+        "price": 150,
+        "image":"/images/GlenDronach-18.webp",
+        "featured":false
+    },
+    {
+        "name": "Glenlivet 18-year",
+        "description": "Single malt Scotch",
+        "price": 100,
+        "image":"/images/glenlivet-18.png",
+        "featured":false
+    },
+    {
+        "name": "Macallan 18-year",
+        "description": "Single malt Scotch",
+        "price": 250,
+        "image":"/images/macallan-18.webp",
+        "featured":false
+    },
+    {
+        "name": "Glenfiddich 18-year",
+        "description": "Single malt Scotch",
+        "price": 100,
+        "image":"/images/glenfiddich-18.jpeg",
+        "featured":false
+    },
+    {
+        "name": "Aberlour 16-year",
+        "description": "Single malt Scotch",
+        "price": 80,
+        "featured":false
+    },
+    {
+        "name": "Laphroaig 10-year",
+        "description": "Single malt Scotch",
+        "price": 50,
+        "featured":false
+    },
+    {
+        "name": "Talisker 10-year",
+        "description": "Single malt Scotch",
+        "price": 60,
+        "featured":false
+    },
+    {
+        "name": "Oban 14-year",
+        "description": "Single malt Scotch",
+        "price": 70,
+        "featured":false
+    },
+    {
+        "name": "Glenmorangie 18-year Extremely Rare",
+        "description": "Single malt Scotch",
+        "price": 130,
+        "image":"/images/glenmorangie-18.webp",
+        "featured":false
+    },
+    {
+        "name": "Glenkinchie 12-year",
+        "description": "Single malt Scotch",
+        "price": 45,
+        "featured":false
+    },
+    {
+        "name": "Bruichladdich The Classic Laddie",
+        "description": "Single malt Scotch",
+        "price": 60,
+        "featured":false
+    },
+    {
+        "name": "Auchentoshan 12-year",
+        "description": "Single malt Scotch",
+        "price": 40,
+        "featured":false
+    }
+]

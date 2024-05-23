@@ -1,0 +1,166 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+.dropdown{
+  position:relative;
+  /*position the menu button all the way to the right */
+  
+}
+#banner{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #282c34;
+  color: white;
+  height:14vh;
+}
+#banner-logo{
+  
+  margin-right:auto;
+  height: 14vh;
+}
+#banner-text{
+  width:100%;
+  text-align: center;
+  font-family: "Paprika", system-ui;
+  font-weight: 400;
+  font-style: normal;
+}
+/* Dropdown Button */
+.dropbtn {
+  background-color: #282c34;
+  color: white;
+  padding: 16px;
+  font-size: 16px;
+  border: none;
+}
+#whiskey-container{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  padding: 10px;
+  text-decoration: none;
+
+}
+#whiskey-container a{
+  text-decoration: none;
+  color: black;
+
+}
+.whiskey-card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-between;
+  width:20vw;
+  border: 1px solid black;
+  height:550px;
+  margin:15px;
+  padding:5px;
+  border-radius: 15px;
+  font-family: "Charm", cursive;
+  font-weight: 400;
+  font-style: normal;
+}
+#whiskey-description-font{
+  font-family:'Lucida Grande', 'Lucida Sans', Arial, sans-serif
+}
+.whiskey-card img{
+  height: 300px;
+
+}
+
+.whiskey-card:hover {
+  
+  box-shadow: 0 0 10px 5px #de9504;
+}
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+  position: relative;
+  /* display: inline-block; */
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: #f1f1f1;
+  left:0px;
+  width:5vw; /* FIX this when you change the link text*/ 
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  color: black;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+}
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: #ddd;
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+  background-color: #282c34;
+}
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+#banner{
+/* the banner spans the width of the screen. the logo should be at the top left. The h1 and h2 should be centered in the middle of their div */
+  display: flex;
+  justify-content: center;
+  padding: 10px;
+  background-color: #282c34;
+  color: white;
+}
+#banner img{
+justify-items: flex-start;
+}
+#banner-text{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
