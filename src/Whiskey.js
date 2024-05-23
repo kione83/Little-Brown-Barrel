@@ -7,6 +7,7 @@ const {children} = props;
 
 return (
     <section id="whiskey-home">
+        <p>stestintg</p>
         <Card />
     </section>
 

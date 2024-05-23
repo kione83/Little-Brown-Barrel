@@ -8,10 +8,12 @@ function Card() {
     return(
         <div id="whiskey-container">
             {products.map((product) => (
-                <a href={product.website} target="_blank" rel="noopener noreferrer">
+                <a key={product.name} href={product.website} target="_blank" rel="noopener noreferrer">
                 <div className='whiskey-card'>
+                    <div className="whiskey-title" key={product.name}>
                     {product.featured && <StarIcon/>}
                     <h2>{product.name}</h2>
+                    </div>
                     <div><img src={product.image} alt={product.name} /> 
                     </div>
                     <div>

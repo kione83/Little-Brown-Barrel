@@ -58,7 +58,7 @@
   flex-direction: column;
   align-items: center;
   justify-content: space-between;
-  width:20vw;
+  width:21vw;
   border: 1px solid black;
   height:550px;
   margin:15px;
@@ -97,10 +97,15 @@
   z-index: 1;
   
 }
-#star-icon{
-  display: inline-flex;
-  position: relative;
-  margin-right:300px;
+.whiskey-title {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px; /* Space between the star icon and the text */
+}
+.whiskey-title svg {
+  width: 24px;
+  height: 24px;
 }
 /* Links inside the dropdown */
 .dropdown-content a {
