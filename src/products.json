@@ -5,7 +5,7 @@
         "description": "Aged to perfection",
         "price": 1950,
         "image":"/images/william-larue-weller.webp",
-        "featured": false,
+        "featured": true,
         "website":"https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller.html"
     },
     {

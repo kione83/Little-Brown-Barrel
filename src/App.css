@@ -97,7 +97,11 @@
   z-index: 1;
   
 }
-
+#star-icon{
+  display: inline-flex;
+  position: relative;
+  margin-right:300px;
+}
 /* Links inside the dropdown */
 .dropdown-content a {
   color: black;
