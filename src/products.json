@@ -85,102 +85,128 @@
         "name": "Bushmills Black Bush Whiskey",
         "description": "Heavy sherry components",
         "price": 40,
-        "featured":false
+        "image":"/images/bushmills-black-bush.png",
+        "featured":false,
+        "website":"https://bushmills.com/whiskeys/black-bush/"
     },
     {
         "name": "Monkey Shoulder Blended Malt Scotch",
         "description": "Blended malt Scotch",
         "price": 30,
-        "featured":false
+        "image":"/images/monkey-shoulder.png",
+        "featured":false,
+        "website":"https://www.monkeyshoulder.com/"
     },
     {
         "name": "Field & Sound Bottled in Bond Bourbon",
         "description": "Straight bourbon whiskey",
         "price": 55,
-        "featured":false
+        "image":"/images/field-sound.webp",
+        "featured":false,
+        "website":"https://www.fieldandsound.com/"
     },
     {
         "name": "Highland Park 18-year",
         "description": "Single malt Scotch",
         "price": 120,
         "image":"/images/highland-park-18.webp",
-        "featured":false
+        "featured":false,
+        "website":"https://www.highlandparkwhisky.com/en-us/"
     },
     {
         "name": "GlenDronach 18-year Allardice",
         "description": "Single malt Scotch",
         "price": 150,
         "image":"/images/GlenDronach-18.webp",
-        "featured":false
+        "featured":false,
+        "website":"https://www.glendronachdistillery.com/"
     },
     {
         "name": "Glenlivet 18-year",
         "description": "Single malt Scotch",
         "price": 100,
         "image":"/images/glenlivet-18.png",
-        "featured":false
+        "featured":false,
+        "website":"https://www.theglenlivet.com/"
     },
     {
         "name": "Macallan 18-year",
         "description": "Single malt Scotch",
         "price": 250,
         "image":"/images/macallan-18.webp",
-        "featured":false
+        "featured":false,
+        "website":"https://www.themacallan.com/"
     },
     {
         "name": "Glenfiddich 18-year",
         "description": "Single malt Scotch",
         "price": 100,
         "image":"/images/glenfiddich-18.jpeg",
-        "featured":false
+        "featured":false,
+        "website":"https://www.glenfiddich.com/"
     },
     {
         "name": "Aberlour 16-year",
         "description": "Single malt Scotch",
-        "price": 80,
-        "featured":false
+        "price": 140,
+        "image":"/images/aberlour-16.png",
+        "featured":false,
+        "website":"https://www.aberlour.com/"
     },
     {
         "name": "Laphroaig 10-year",
         "description": "Single malt Scotch",
         "price": 50,
-        "featured":false
+        "image":"/images/laphroaig-10.webp",
+        "featured":false,
+        "website":"https://www.laphroaig.com/"
     },
     {
         "name": "Talisker 10-year",
         "description": "Single malt Scotch",
         "price": 60,
-        "featured":false
+        "image":"/images/talisker-10.webp",
+        "featured":false,
+        "website":"https://www.malts.com/en-row/brands/talisker/discover"
     },
     {
         "name": "Oban 14-year",
         "description": "Single malt Scotch",
         "price": 70,
-        "featured":false
+        "image":"/images/oban-14.webp",
+        "featured":false,
+        "website":"https://www.obanwhisky.com/whiskies/14-years-old"
     },
     {
         "name": "Glenmorangie 18-year Extremely Rare",
         "description": "Single malt Scotch",
         "price": 130,
         "image":"/images/glenmorangie-18.webp",
-        "featured":false
+        "featured":false,
+        "website":"https://www.glenmorangie.com/"
     },
     {
         "name": "Glenkinchie 12-year",
         "description": "Single malt Scotch",
         "price": 45,
-        "featured":false
+        "image":"/images/glenkinchie-12.png",
+        "featured":false,
+        "website":"https://www.malts.com/en-row/distilleries/glenkinchie"
     },
     {
         "name": "Bruichladdich The Classic Laddie",
         "description": "Single malt Scotch",
         "price": 60,
-        "featured":false
+        "image":"/images/bruichladdich-classic-laddie.webp",
+        "featured":false,
+        "website":"https://www.bruichladdich.com/"
     },
     {
         "name": "Auchentoshan 12-year",
         "description": "Single malt Scotch",
         "price": 40,
-        "featured":false
+        "image":"/images/auchentoshan-12.webp",
+        "featured":false,
+        "website":"https://www.auchentoshan.com/"
     }
 ]

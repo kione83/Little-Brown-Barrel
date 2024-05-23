@@ -95,6 +95,7 @@
   width:5vw; /* FIX this when you change the link text*/ 
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
+  
 }
 
 /* Links inside the dropdown */

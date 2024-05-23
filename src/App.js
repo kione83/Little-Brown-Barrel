@@ -3,14 +3,14 @@ import Card from './Card';
 import Banner from './Banner';
 import React, { useState } from 'react';
 import Modal from './Modal';
+import Layout from './Layout';
 
 function App() {
 
 
   return (
     <div className="App">
-      <Banner />
-      <Card />
+      <Layout/>
     </div>
   );
 }

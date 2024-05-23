@@ -2,15 +2,16 @@ import react from 'react';
 import Banner from './Banner';
 import Card from './Card';
 
-function Layout(props) {
+function Whiskey(props) {
 const {children} = props;
 
 return (
-    <div className="App">
-        <Banner />
-        {children}
-    </div>
-);
+    <section id="whiskey-home">
+        <Card />
+    </section>
+
+)
+
 }
 
-export default Layout;
+export default Whiskey;
