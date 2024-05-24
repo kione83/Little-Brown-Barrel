@@ -5,7 +5,7 @@
         "description": "Aged to perfection",
         "price": 1950,
         "image":"/images/william-larue-weller.webp",
-        "featured": true,
+        "featured": false,
         "website":"https://www.buffalotracedistillery.com/our-brands/w-l-weller/william-larue-weller.html"
     },
     {
@@ -208,5 +208,21 @@
         "image":"/images/auchentoshan-12.webp",
         "featured":false,
         "website":"https://www.auchentoshan.com/"
+    }, 
+    {
+        "name":"Heaven Hill 7-year",
+        "description":"Kentucky Straight Bourbon",
+        "price":70,
+        "image":"",
+        "featured":false,
+        "website":"https://heavenhilldistillery.com"
+    },
+    {
+        "name":"Traveller Blend No 40",
+        "description":"Blended Whiskey",
+        "price":80,
+        "image":"",
+        "featured":false,
+        "website":"https://travellerwhiskey.com"
     }
 ]
