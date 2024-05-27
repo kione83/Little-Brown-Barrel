@@ -24,7 +24,7 @@ function App() {
   return (
     <div className="App">
       <Layout/>
-      {/* <Card/> */}
+      <Card/>
       <Admin/>
     </div>
   );

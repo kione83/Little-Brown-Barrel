@@ -1,26 +1,52 @@
-import react from 'react';
-import Layout from './Layout';
-import products from './products.json';
+import React, { useState } from 'react';
 
 function Admin() {
-    function updateProducts(e) {
+    const [message, setMessage] = useState('');
+    async function updateProducts(e) {
         e.preventDefault();
+        
         const newWhiskeyName = document.getElementById('newWhiskeyName').value;
         const newWhiskeyDesc = document.getElementById('newWhiskeyDesc').value;
         const newWhiskeyPrice = document.getElementById('newWhiskeyPrice').value;
         const newWhiskeyImage = document.getElementById('newWhiskeyImage').value;
         const newWhiskeyFeatured = document.getElementById('newWhiskeyFeatured').value;
         const newWhiskeyWebsite = document.getElementById('newWhiskeyWebsite').value;
-        products.push({
+        
+        const newProduct = {
             name: newWhiskeyName,
             description: newWhiskeyDesc,
             price: newWhiskeyPrice,
             image: newWhiskeyImage,
             featured: newWhiskeyFeatured,
             website: newWhiskeyWebsite
-        });
-        console.log(products);
+        };
+
+        try {
+            const response = await fetch('http://localhost:3000/api/products', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(newProduct)
+            });
+            const result = await response.json();
+            setMessage(result.message);
+            // Clear the form
+            document.getElementById('newWhiskeyName').value = '';
+            document.getElementById('newWhiskeyDesc').value = '';
+            document.getElementById('newWhiskeyPrice').value = '';
+            document.getElementById('newWhiskeyImage').value = '';
+            document.getElementById('newWhiskeyFeatured').value = '';
+            document.getElementById('newWhiskeyWebsite').value = '';
+
+    
+
+        } catch (error) {
+            console.error('Error:', error);
+            setMessage('Failed to add product');
+        }
     }
+
     return (
         <div className="Admin">
         <h1>Admin Panel</h1>
@@ -41,7 +67,9 @@ function Admin() {
             <input type="checkbox" id="newWhiskeyFeatured" placeholder="Featured"/>
             <input type="text" id="newWhiskeyWebsite" placeholder="Website"/>
             <button type="submit" onClick={updateProducts} >Add Whiskey</button>
-            </form>
+        </form>
+
+            {message && <p>{message}</p>}
         </div>
     );
     }
