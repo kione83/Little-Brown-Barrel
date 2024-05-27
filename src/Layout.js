@@ -1,16 +1,14 @@
-import react from 'react';
+import React from 'react';
+import { Link } from 'react-router-dom';
 import Banner from './Banner';
-import Card from './Card';
 
-function Layout(props) {
-const {children} = props;
-
-return (
-    <div className="App">
-        <Banner />
-        {children}
-    </div>
-);
+function Layout({ children }) {
+    return (
+        <div>
+            <Banner />
+            <main>{children}</main>
+        </div>
+    );
 }
 
 export default Layout;

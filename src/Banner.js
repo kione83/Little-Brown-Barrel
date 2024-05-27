@@ -11,6 +11,7 @@ function Banner() {
                 <h2>Schuylkill County's home for the best whiskeys around.</h2>
             </div>
             <Menu />
+            <div id="buffer"></div>
         </div>
     )
 }

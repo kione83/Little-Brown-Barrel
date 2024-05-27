@@ -1,33 +1,34 @@
-import './App.css';
 import React from 'react';
+import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import Layout from './Layout';
 import Whiskey from './Whiskey';
-import About from './About';
-import Card from './Card';
+import Appetizers from './Appetizers';
 import Admin from './Admin';
+import Login from './Login';
+import './App.css';
+
+function PrivateRoute({ children }) {
+    const isAuthenticated = /* your authentication logic here */ true; // Set to true for testing
+    return isAuthenticated ? children : <Navigate to="/login" />;
+}
 
 function App() {
-  // let component;
-  // switch(window.location.pathname) {
-  //   case "/": 
-  //     component = App;
-  //     break;
-  //   case "/whiskey":
-  //     component = Whiskey;
-  //     break;
-  //   case "about":
-  //     component = About;
-  //     break;
-  //   default:
-  //     component = App;
-  
-  return (
-    <div className="App">
-      <Layout/>
-      <Card/>
-      <Admin/>
-    </div>
-  );
+    return (
+        <Router>
+            <Layout>
+                <Routes>
+                    <Route path="/" element={<Whiskey />} />
+                    <Route path="/appetizers" element={<Appetizers />} />
+                    <Route path="/admin" element={
+                        <PrivateRoute>
+                            <Admin />
+                        </PrivateRoute>
+                    } />
+                    <Route path="/login" element={<Login />} />
+                </Routes>
+            </Layout>
+        </Router>
+    );
 }
 
 export default App;

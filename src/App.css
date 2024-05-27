@@ -36,8 +36,19 @@
   background-color: #282c34;
   color: white;
   padding: 16px;
-  font-size: 16px;
-  border: none;
+  font-size: 20px;
+  border: 1px solid white;
+  border-radius: 15px;
+  background-image: linear-gradient(30deg, #282c34 50%, white 50%);
+  background-size: 200%;
+  background-position: left;
+  transition: background-position 300ms ease-in, color 300ms ease-in;
+}
+
+.dropbtn:hover {
+  background-position: right;
+  color: black;
+  transition: background-position 300ms ease-out, color 300ms ease-out;
 }
 #whiskey-container{
   display: flex;
@@ -91,10 +102,13 @@
   display: none;
   position: absolute;
   background-color: #f1f1f1;
-  left:0px;
+  left:-10px;
+  padding:10px 10px;
+  font-size: 16px;
   width:5vw; /* FIX this when you change the link text*/ 
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
+  border-radius: 15px;
   
 }
 .whiskey-title {
@@ -115,20 +129,26 @@ form{
   gap: 10px;
 
 }
+#buffer{
+  width:2vw;
+}
 input{
   display:block;
 }
 /* Links inside the dropdown */
 .dropdown-content a {
   color: black;
-  padding: 12px 16px;
+  padding: 12px 20px;
   text-decoration: none;
+  text-align: center;
   display: block;
+  border-radius: 15px;
 }
 
 /* Change color of dropdown links on hover */
 .dropdown-content a:hover {
-  background-color: #ddd;
+  background-color: black;
+  color:white;
 }
 
 /* Show the dropdown menu on hover */
@@ -184,4 +204,8 @@ justify-items: flex-start;
   to {
     transform: rotate(360deg);
   }
+}
+.appetizers{
+  text-align: left;
+  
 }

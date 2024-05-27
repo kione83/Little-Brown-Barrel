@@ -1,13 +1,12 @@
-import Banner from './Banner'
 import Card from './Card';
+import React from 'react';
 
-function Whiskey(props) {
+
+function Whiskey() {
 
 
 return (
     <section id="whiskey-home">
-        <p>stestintg</p>
-        <Banner />
         <Card />
     </section>
 

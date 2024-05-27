@@ -1,15 +1,15 @@
-import React from "react";
+import React from 'react';
+import { Link } from 'react-router-dom';
 
 function Menu() {
-
   return (
     <div className="dropdown">
-        <button className="dropbtn">Menu</button>
-            <div className="dropdown-content">
-                <a href="#">Link 1</a>
-                <a href="#">Whiskeys</a> 
-                <a href="#">Link 3</a>
-            </div>
+      <button className="dropbtn">Menu</button>
+      <div className="dropdown-content">
+        <Link to="/">Home</Link>
+        <Link to="/appetizers" className="appetizers">Appetizers</Link>
+        <Link to="/admin">Admin</Link>
+      </div>
     </div>
   );
 }
