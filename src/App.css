@@ -107,6 +107,17 @@
   width: 24px;
   height: 24px;
 }
+form{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+
+}
+input{
+  display:block;
+}
 /* Links inside the dropdown */
 .dropdown-content a {
   color: black;

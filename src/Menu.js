@@ -1,7 +1,7 @@
 import React from "react";
-import Whiskey from "./Whiskey";
 
 function Menu() {
+
   return (
     <div className="dropdown">
         <button className="dropbtn">Menu</button>
