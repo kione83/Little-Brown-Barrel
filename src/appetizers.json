@@ -1,0 +1,20 @@
+[
+    {
+        "name":"French fries",
+        "price":2.99,
+        "description":"A delicious side of fries",
+        "image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-French-Fries-Small.jpg?$Product_Desktop$"
+    },
+    {
+        "name":"Hamburger",
+        "price":4.99,
+        "description":"A delicious hamburger",
+        "image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Hamburger.jpg?$Product_Desktop$"
+    },
+    {
+        "name":"Cheeseburger",
+        "price":5.99,
+        "description":"A delicious cheeseburger",
+        "image":"https://www.mcdonalds.com/is/image/content/dam/usa/nfl/nutrition/items/hero/desktop/t-mcdonalds-Cheeseburger.jpg?$Product_Desktop$"
+    }
+]

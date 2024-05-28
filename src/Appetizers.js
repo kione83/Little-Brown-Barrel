@@ -1,10 +1,11 @@
 import React from 'react';
+import Food from './Food';
 
 function Appetizers() {
     return (
         <div>
             <h1>Appetizers</h1>
-            {/* Add your appetizers content here */}
+            <Food/>
         </div>
     );
 }
