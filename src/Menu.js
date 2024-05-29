@@ -7,7 +7,7 @@ function Menu() {
       <button className="dropbtn">Menu</button>
       <div className="dropdown-content">
         <Link to="/">Home</Link>
-        <Link to="/appetizers" className="appetizers">Appetizers</Link>
+        <Link to="/menu" className="appetizers">Menu</Link>
         <Link to="/admin">Admin</Link>
       </div>
     </div>

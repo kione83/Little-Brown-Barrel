@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter as Router, Route, Routes, Navigate } from 'react-router-dom';
 import Layout from './Layout';
 import Whiskey from './Whiskey';
-import Appetizers from './Appetizers';
+import FoodMenu from './FoodMenu';
 import Admin from './Admin';
 import Login from './Login';
 import './App.css';
@@ -15,9 +15,8 @@ function App() {
         <Router>
             <Layout>
                 <Routes>
-                    <Route path="/login" element={<Login />} />
                     <Route path="/" element={<Whiskey />} />
-                    <Route path="/appetizers" element={<Appetizers />} />
+                    <Route path="/menu" element={<FoodMenu />} />
                     <Route path="/admin" element={
                         <PrivateRoute>
                             <Admin />

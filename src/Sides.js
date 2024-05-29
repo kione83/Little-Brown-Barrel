@@ -1,11 +1,11 @@
 
 import React from "react";
 
-function Appetizers({ items = [] }) {
+function Sides({ items = [] }) {
 	console.log(items)
 	return (
 		<div>
-			<h2>Appetizers</h2>
+			<h2>Sides</h2>
 			{items.map((item, index) => (
 				<div key={index} className="menu-item">
 					<h3>{item.name}</h3>
@@ -17,4 +17,4 @@ function Appetizers({ items = [] }) {
 	);
 }
 
-export default Appetizers;
+export default Sides;
