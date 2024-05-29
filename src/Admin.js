@@ -1,6 +1,13 @@
 import React, { useState } from 'react';
+import { useNavigate } from 'react-router-dom';
 
 function Admin() {
+    const navigate = useNavigate();
+    const handleLogout = () => {
+        localStorage.removeItem('isAuthenticated');
+        navigate('/login');
+    };
+
     const [message, setMessage] = useState('');
     async function updateProducts(e) {
         e.preventDefault();
@@ -68,7 +75,7 @@ function Admin() {
             <input type="text" id="newWhiskeyWebsite" placeholder="Website"/>
             <button type="submit" onClick={updateProducts} >Add Whiskey</button>
         </form>
-
+        <button onClick={handleLogout}>Logout</button>
             {message && <p>{message}</p>}
         </div>
     );

@@ -6,17 +6,16 @@ import Appetizers from './Appetizers';
 import Admin from './Admin';
 import Login from './Login';
 import './App.css';
+import PrivateRoute from './PrivateRoute';
 
-function PrivateRoute({ children }) {
-    const isAuthenticated = /* your authentication logic here */ true; // Set to true for testing
-    return isAuthenticated ? children : <Navigate to="/login" />;
-}
+
 
 function App() {
     return (
         <Router>
             <Layout>
                 <Routes>
+                    <Route path="/login" element={<Login />} />
                     <Route path="/" element={<Whiskey />} />
                     <Route path="/appetizers" element={<Appetizers />} />
                     <Route path="/admin" element={
