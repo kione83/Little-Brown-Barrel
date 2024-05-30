@@ -3,7 +3,7 @@
     "name": "Jack Daniels Old No. 7",
     "description": "Tennessee whiskey",
     "price": 25,
-    "image": "/images/",
+    "image": "/images/jack-daniels-whiskey.webp",
     "featured": false,
     "website": "https://www.jackdaniels.com/"
   },
@@ -11,7 +11,7 @@
     "name": "Jack Daniels Gentleman Jack",
     "description": "Tennessee whiskey",
     "price": 40,
-    "image": "/images/",
+    "image": "/images/jd-gent-jack.webp",
     "featured": false,
     "website": "https://www.jackdaniels.com/"
   },
@@ -19,7 +19,7 @@
     "name": "Rogue Spirits Dead Guy Whiskey",
     "description": "Single malt whiskey",
     "price": 50,
-    "image": "/images/",
+    "image": "/images/rogue-dead-guy.webp",
     "featured": false,
     "website": "https://rogue.com/spirits/"
   },
@@ -27,7 +27,7 @@
     "name": "Heaven's Door Double Barrel Whiskey",
     "description": "Tennessee whiskey",
     "price": 50,
-    "image": "/images/",
+    "image": "/images/heavens-double-barrel.webp",
     "featured": false,
     "website": "https://heavensdoor.com/"
   },
@@ -35,7 +35,7 @@
     "name": "Ballotin Chocolate Peanut Butter",
     "description": "For when life gets a little nutty",
     "price": 25,
-    "image": "/images/",
+    "image": "/images/ballotin-choc-pb.webp",
     "featured": false,
     "website": "https://www.ballotinwhiskey.com/"
   },
@@ -43,7 +43,7 @@
     "name": "Fireball Cinnamon Whiskey",
     "description": "Cinnamon whiskey",
     "price": 20,
-    "image": "/images/",
+    "image": "/images/fbCinna.avif",
     "featured": false,
     "website": "https://www.fireballwhisky.com/"
   },
@@ -51,7 +51,7 @@
     "name": "Jim Beam Red Stag",
     "description": "Black cherry infused bourbon",
     "price": 25,
-    "image": "/images/",
+    "image": "/images/jim-red-stag.webp",
     "featured": false,
     "website": "https://www.jimbeam.com/"
   },
@@ -59,7 +59,7 @@
     "name": "Screwball Peanut Butter Whiskey",
     "description": "Peanut butter whiskey",
     "price": 25,
-    "image": "/images/",
+    "image": "/images/screwball-pb.webp",
     "featured": false,
     "website": "https://screwballwhiskey.com/"
   },
@@ -67,7 +67,7 @@
     "name": "Southern Comfort",
     "description": "Whiskey liqueur",
     "price": 25,
-    "image": "/images/",
+    "image": "/images/sth-comfort.webp",
     "featured": false,
     "website": "https://www.southerncomfort.com/"
   },
@@ -75,7 +75,7 @@
     "name": "Yukon Jack",
     "description": "Canadian whiskey",
     "price": 20,
-    "image": "/images/",
+    "image": "/images/yukonjack.png",
     "featured": false,
     "website": "https://www.yukonjackwhisky.com/"
   },
@@ -83,7 +83,7 @@
     "name": "Wild Turkey American Honey",
     "description": "Honey infused bourbon",
     "price": 25,
-    "image": "/images/",
+    "image": "/images/wildTurkey-American.webp",
     "featured": false,
     "website": "https://www.wildturkey.com/"
   },
@@ -91,7 +91,7 @@
     "name": "Jim Beam Vanilla",
     "description": "Vanilla infused bourbon",
     "price": 25,
-    "image": "/images/",
+    "image": "/images/jim-beam-vanilla.webp",
     "featured": false,
     "website": "https://www.jimbeam.com/"
   },
@@ -99,7 +99,7 @@
     "name": "Angel's Envy Port Barrel Finish",
     "description": "Kentucky Straight Bourbon",
     "price": 50,
-    "image": "/images/",
+    "image": "/images/AngelsEnvyPortBarrel.webp",
     "featured": false,
     "website": "https://www.angelsenvy.com/"
   },
