@@ -7,13 +7,14 @@ function Login() {
     const navigate = useNavigate();
     const location = useLocation();
 
-    const from = location.state?.from?.pathname || "/";
+    const from = location.state?.from?.pathname || "/admin";
 
     const handleSubmit = (event) => {
         event.preventDefault();
         // Add your authentication logic here
         if (username === 'admin' && password === 'password') {
             // Assuming successful login
+            localStorage.setItem("isAuthenticated", "true");
             navigate(from, { replace: true });
         } else {
             alert('Invalid credentials');
