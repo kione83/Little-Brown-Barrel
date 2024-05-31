@@ -178,7 +178,7 @@
   {
     "name": "Bulleit bourbon",
     "description": "Straight bourbon",
-    "price":  30,
+    "price": 30,
     "image": "/images/bulleit-bourbon.webp",
     "featured": false,
     "website": "https://www.bulleit.com/"
@@ -222,5 +222,37 @@
     "image": "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/hec/h58/26848534593566.png",
     "featured": false,
     "website": "https://heavenhilldistillery.com"
+  },
+  {
+    "name": "G&W Private Stock 6-year",
+    "description": "Straight Bourbon",
+    "price": "60",
+    "image": "",
+    "featured": false,
+    "website": ""
+  },
+  {
+    "name": "Hudson Whiskey NY",
+    "description": "Straight Bourbon",
+    "price": "50",
+    "image": "images/hudson-ny.png",
+    "featured": false,
+    "website": "https://www.hudsonwhiskey.com/"
+  },
+  {
+    "name": "Jim Beam",
+    "description": "Straight Bourbon",
+    "price": "",
+    "image": "",
+    "featured": false,
+    "website": "https://jimbeam.com"
+  },
+  {
+    "name": "Jim Beam Double Oaked",
+    "description": "Straight Bourbon",
+    "price": "",
+    "image": "",
+    "featured": false,
+    "website": "https://jimbeam.com"
   }
 ]

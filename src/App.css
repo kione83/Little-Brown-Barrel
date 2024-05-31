@@ -279,3 +279,72 @@ object-fit: cover;
 #salad-spacing .menu-item:nth-child(5){
   margin-left: -225px;
 } */
+/* Add this to your CSS file */
+/* Add this to your CSS file */
+.admin-panel {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  width: 100%;
+}
+
+.admin-panel-head {
+  width: 100%;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.admin-panel-content {
+  display: flex;
+  width: 100%;
+}
+
+.whiskey-list-container {
+  width: 30%;
+  margin-right: 20px;
+}
+
+.forms-container {
+  display: flex;
+  flex-direction: column;
+  width: 70%;
+}
+
+.admin-form {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 20px;
+}
+
+.admin-form input[type="text"], .admin-form input[type="checkbox"], .admin-form button {
+  margin-bottom: 10px;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+th {
+  background-color: #f2f2f2;
+  text-align: left;
+}
+
+button {
+  padding: 10px;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #0056b3;
+}
