@@ -298,11 +298,12 @@ object-fit: cover;
 
 .admin-panel-content {
   display: flex;
+  justify-content: center;
+  align-items: center;
   width: 100%;
 }
 
 .whiskey-list-container {
-  width: 30%;
   margin-right: 20px;
 }
 
@@ -311,7 +312,9 @@ object-fit: cover;
   flex-direction: column;
   width: 70%;
 }
-
+.idColumn{
+  width: 10%;
+}
 .admin-form {
   display: flex;
   flex-direction: column;

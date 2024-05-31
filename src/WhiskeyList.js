@@ -71,7 +71,7 @@ const WhiskeyList = () => {
 							</td>
 							<td>
 								<input
-									type="text"
+									type="text"									
 									value={whiskey.id}
 									onChange={(e) =>
 										handleUpdate(whiskey.id, "id", e.target.value)
