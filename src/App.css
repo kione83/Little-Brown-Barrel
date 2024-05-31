@@ -80,6 +80,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
+  text-align: center;
   gap: 10px; /* Space between the star icon and the text */
 }
 .whiskey-title svg {
@@ -321,11 +322,11 @@ object-fit: cover;
   margin-bottom: 10px;
 }
 
-table {
+/* table {
   width: 100%;
   border-collapse: collapse;
   margin-top: 20px;
-}
+} */
 
 th, td {
   border: 1px solid #ddd;
@@ -347,4 +348,73 @@ button {
 
 button:hover {
   background-color: #0056b3;
+}
+.deleteBtn:hover {
+  background-color: red;
+}
+
+
+.whiskey-list table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+.whiskey-list th, .whiskey-list td {
+    border: 1px solid #ddd;
+    padding: 8px;
+    text-align: left;
+    position: relative; /* Ensure the inputs and buttons are not blocked */
+}
+.whiskey-list input[type="text"], .whiskey-list input[type="checkbox"], .whiskey-list button{
+    padding: 5px;
+    box-sizing: border-box;
+}
+
+.whiskey-list button {
+    padding: 5px 10px;
+    cursor: pointer;
+    margin-left: 10px;
+}
+.search-filter {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 20px;
+    margin-top: 10px;
+   margin-right: 10px;
+}
+
+.search-filter input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    width: 50%;
+    margin-left:10px;
+}
+
+.search-filter label {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+}
+
+.search-filter input[type="checkbox"] {
+    margin-right: 5px;
+}
+.search-filter input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+.search-filter label {
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    padding: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: #f9f9f9;
 }
