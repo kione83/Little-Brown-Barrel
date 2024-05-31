@@ -242,7 +242,7 @@
   {
     "name": "Jim Beam",
     "description": "Straight Bourbon",
-    "price": "",
+    "price": "25",
     "image": "",
     "featured": false,
     "website": "https://jimbeam.com"
@@ -250,9 +250,306 @@
   {
     "name": "Jim Beam Double Oaked",
     "description": "Straight Bourbon",
-    "price": "",
+    "price": "30",
     "image": "",
     "featured": false,
     "website": "https://jimbeam.com"
+  },
+  {
+    "id": "1",
+    "name": "Maker's Mark",
+    "description": "Maker's Mark is a popular Kentucky straight bourbon whiskey known for its smooth, rich flavor profile with hints of vanilla and caramel.",
+    "price": "30",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.makersmark.com/"
+  },
+  {
+    "id": "2",
+    "name": "Maker's Mark 46",
+    "description": "Maker's Mark 46 is a bourbon with a unique finishing process, delivering bolder and spicier flavors than the original Maker's Mark.",
+    "price": "40",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.makersmark.com/"
+  },
+  {
+    "id": "3",
+    "name": "Noble Oak Double Oak",
+    "description": "Noble Oak Double Oak is a bourbon finished with sherry oak staves, offering a complex flavor profile with notes of dried fruit and spice.",
+    "price": "45",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.nobleoak.com/"
+  },
+  {
+    "id": "4",
+    "name": "Old Elk",
+    "description": "Old Elk is a high-quality bourbon with a smooth and rich taste, characterized by hints of vanilla, toffee, and oak.",
+    "price": "50",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.oldelk.com/"
+  },
+  {
+    "id": "5",
+    "name": "Rebel",
+    "description": "Rebel is a wheated bourbon that provides a smooth, approachable flavor with notes of honey, vanilla, and a hint of spice.",
+    "price": "25",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.rebelbourbon.com/"
+  },
+  {
+    "id": "6",
+    "name": "Redemption",
+    "description": "Redemption Bourbon offers a balanced and flavorful experience with strong notes of caramel, spice, and oak.",
+    "price": "35",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.redemptionwhiskey.com/"
+  },
+  {
+    "id": "7",
+    "name": "Yellowstone Select",
+    "description": "Yellowstone Select is a bourbon that blends sweet and spicy flavors with notes of caramel, vanilla, and a touch of oak.",
+    "price": "45",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.yellowstonebourbon.com/"
+  },
+  {
+    "id": "8",
+    "name": "Wild Turkey 101",
+    "description": "Wild Turkey 101 is a bold, high-proof bourbon with robust flavors of caramel, vanilla, and oak, with a spicy finish.",
+    "price": "25",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.wildturkeybourbon.com/"
+  },
+  {
+    "id": "9",
+    "name": "Eagle Rare",
+    "description": "Eagle Rare is a premium bourbon known for its rich, complex flavor profile with notes of toffee, orange peel, and oak.",
+    "price": "40",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.buffalotracedistillery.com/brands/eagle-rare.html"
+  },
+  {
+    "id": "10",
+    "name": "David E. Black",
+    "description": "David E. Black is a well-balanced bourbon with a smooth taste, featuring hints of vanilla, caramel, and spice.",
+    "price": "50",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.davideblack.com/"
+  },
+  {
+    "id": "11",
+    "name": "Heaven Hill Bottled-in-Bond",
+    "description": "Heaven Hill Bottled-in-Bond is a quality bourbon offering rich flavors of caramel, vanilla, and oak with a smooth finish.",
+    "price": "40",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.heavenhilldistillery.com/"
+  },
+  {
+    "id": "12",
+    "name": "Pappy Van Winkle 15-year",
+    "description": "Pappy Van Winkle 15-year is a highly sought-after bourbon with a complex flavor profile of caramel, spice, and oak.",
+    "price": "300",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.oldripvanwinkle.com/"
+  },
+  {
+    "id": "13",
+    "name": "Booker's Tea Batch 6 year",
+    "description": "Booker's Tea Batch 6 year is a cask-strength bourbon with a bold, robust flavor featuring notes of vanilla, oak, and spice.",
+    "price": "80",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.bookersbourbon.com/"
+  },
+  {
+    "id": "14",
+    "name": "Four Roses",
+    "description": "Four Roses is a smooth, mellow bourbon with flavors of caramel, vanilla, and a hint of spice, perfect for any occasion.",
+    "price": "25",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.fourrosesbourbon.com/"
+  },
+  {
+    "id": "15",
+    "name": "Koval",
+    "description": "Koval is an organic, small-batch bourbon offering a unique flavor profile with hints of fruit, spice, and vanilla.",
+    "price": "50",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.koval-distillery.com/"
+  },
+  {
+    "id": "16",
+    "name": "Widow Jane 10 year",
+    "description": "Widow Jane 10 year is a premium bourbon with a rich, complex flavor featuring notes of cherry, vanilla, and oak.",
+    "price": "70",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.widowjane.com/"
+  },
+  {
+    "id": "17",
+    "name": "Jack Daniel's Barrel Proof",
+    "description": "Jack Daniel's Barrel Proof is a full-bodied, high-proof bourbon with intense flavors of caramel, vanilla, and toasted oak.",
+    "price": "60",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.jackdaniels.com/"
+  },
+  {
+    "id": "18",
+    "name": "E.H. Taylor",
+    "description": "Small batch",
+    "price": "60",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.buffalotracedistillery.com/brands/eh-taylor.html"
+  },
+  {
+    "id": "19",
+    "name": "Calumet Farm",
+    "description": "Small batch",
+    "price": "70",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.calumetfarmbourbon.com/"
+  },
+  {
+    "id": "20",
+    "name": "Elijah Craig",
+    "description": "Small batch",
+    "price": "50",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.elijahcraig.com/"
+  },
+  {
+    "id": "21",
+    "name": "Four Roses",
+    "description": "Small batch",
+    "price": "30",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.fourrosesbourbon.com/"
+  },
+  {
+    "id": "22",
+    "name": "Jefferson's",
+    "description": "Small batch",
+    "price": "50",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.jeffersonsbourbon.com/"
+  },
+  {
+    "id": "23",
+    "name": "Jefferson's Ocean Aged",
+    "description": "Small batch",
+    "price": "80",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.jeffersonsbourbon.com/"
+  },
+  {
+    "id": "24",
+    "name": "Knob Creek",
+    "description": "Small batch",
+    "price": "40",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.knobcreek.com/"
+  },
+  {
+    "id": "25",
+    "name": "Larceny",
+    "description": "Small batch",
+    "price": "25",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.larcenybourbon.com/"
+  },
+  {
+    "id": "26",
+    "name": "Woodford Reserve",
+    "description": "Small batch",
+    "price": "35",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.woodfordreserve.com/"
+  },
+  {
+    "id": "27",
+    "name": "1792",
+    "description": "Small batch",
+    "price": "30",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.1792bourbon.com/"
+  },
+  {
+    "id": "28",
+    "name": "Evan Williams 1783",
+    "description": "Small batch",
+    "price": "20",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.evanwilliams.com/"
+  },
+  {
+    "id": "29",
+    "name": "Bowman Brothers",
+    "description": "Small batch",
+    "price": "30",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.asmithbowman.com/"
+  },
+  {
+    "id": "30",
+    "name": "Maker's Mark Wood Finishing",
+    "description": "Small batch",
+    "price": "60",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.makersmark.com/"
+  },
+  {
+    "id": "31",
+    "name": "Basil Hayden 10-year",
+    "description": "Small batch",
+    "price": "80",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.basilhaydenbourbon.com/"
+  },
+  {
+    "id": "32",
+    "name": "David E. Bottled-in-Bond",
+    "description": "Small batch",
+    "price": "50",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.davidebourbon.com/"
+  },
+  {
+    "id": "33",
+    "name": "Elijah Craig Toasted Barrel",
+    "description": "Small batch",
+    "price": "70",
+    "image": "URL_TO_IMAGE",
+    "featured": false,
+    "website": "https://www.elijahcraig.com/"
   }
 ]
