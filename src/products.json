@@ -107,7 +107,7 @@
     "name": "Daringer Rabbit Hole Sherry Cask",
     "description": "Kentucky Straight Bourbon",
     "price": 60,
-    "image": "/images/",
+    "image": "/images/rabbit-hole-sherry-cask.png",
     "featured": false,
     "website": "https://rabbitholedistillery.com/"
   },
@@ -115,7 +115,7 @@
     "name": "Legent Wine and Sherry Cask",
     "description": "Kentucky Straight Bourbon",
     "price": 50,
-    "image": "/images/",
+    "image": "/images/legent-sherry-cask.webp",
     "featured": false,
     "website": "https://www.legentbourbon.com/"
   },
@@ -123,7 +123,7 @@
     "name": "Thomas S. Moore Merlot Cask",
     "description": "Kentucky Straight Bourbon",
     "price": 70,
-    "image": "/images/",
+    "image": "/images/tsmoore-merlot-cask.avif",
     "featured": false,
     "website": "https://www.buffalotracedistillery.com/"
   },
@@ -131,7 +131,7 @@
     "name": "Thomas S. Moore Sherry Cask",
     "description": "Kentucky Straight Bourbon",
     "price": 70,
-    "image": "/images/",
+    "image": "/images/tsmoore-sherry-cask.avif",
     "featured": false,
     "website": "https://www.buffalotracedistillery.com/"
   },
@@ -139,7 +139,7 @@
     "name": "Basil Hayden Red Wine Cask",
     "description": "Kentucky Straight Bourbon",
     "price": 70,
-    "image": "/images/",
+    "image": "/images/basil-hayden-red-cask.webp",
     "featured": false,
     "website": "https://www.basilhaydens.com/"
   },
@@ -147,7 +147,7 @@
     "name": "Basil Hayden",
     "description": "Straight Bourbon",
     "price": 50,
-    "image": "/images/",
+    "image": "/images/BasilHaydensTransp.webp",
     "featured": false,
     "website": "https://www.basilhaydens.com/"
   },
@@ -155,7 +155,7 @@
     "name": "Bluebird Four Grain",
     "description": "Straight Bourbon",
     "price": 50,
-    "image": "/images/",
+    "image": "/images/FourGrainBourbon3.webp",
     "featured": false,
     "website": "https://bluebirddistilling.com/"
   },
@@ -163,7 +163,7 @@
     "name": "Breckenridge Bourbon",
     "description": "Straight Bourbon",
     "price": 50,
-    "image": "/images/",
+    "image": "/images/breckenridgeBourbon.png",
     "featured": false,
     "website": "https://breckenridgedistillery.com/"
   },
@@ -171,7 +171,7 @@
     "name": "Buffalo Trace",
     "description": "Straight bourbon",
     "price": 30,
-    "image": "/images/",
+    "image": "/images/buffalo-desktop-bottle.png",
     "featured": false,
     "website": "https://www.buffalotracedistillery.com/"
   },
@@ -179,15 +179,15 @@
     "name": "Bulleit bourbon",
     "description": "Straight bourbon",
     "price":  30,
-    "image": "/images/",
+    "image": "/images/bulleit-bourbon.webp",
     "featured": false,
     "website": "https://www.bulleit.com/"
   },
   {
-    "name": "Clyde May",
+    "name": "Clyde Mays",
     "description": "Straight bourbon",
     "price": 45,
-    "image": "/images/",
+    "image": "/images/clydemays-bourbon.png",
     "featured": false,
     "website": "https://www.clydemays.com/"
   },
@@ -195,7 +195,7 @@
     "name": "Cooper's Craft",
     "description": "Straight Bourbon",
     "price": 60,
-    "image": "/images/",
+    "image": "/images/coopers-bourbon.webp",
     "featured": false,
     "website": "https://www.cooperscraft.com/"
   },
@@ -203,7 +203,7 @@
     "name": "Evan Williams Black Label",
     "description": "Straight Bourbon",
     "price": 20,
-    "image": "/images/",
+    "image": "/images/evanwilliams-black.jpeg",
     "featured": false,
     "website": "https://www.evanwilliams.com/"
   },
@@ -220,15 +220,7 @@
     "description": "Kentucky Straight Bourbon",
     "price": "70",
     "image": "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/hec/h58/26848534593566.png",
-    "featured": "on",
+    "featured": false,
     "website": "https://heavenhilldistillery.com"
-  },
-  {
-    "name": "sara",
-    "description": "the sweetest",
-    "price": "priceless",
-    "image": "none",
-    "featured": "on",
-    "website": "sara.com"
   }
 ]
