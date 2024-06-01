@@ -421,3 +421,51 @@ button:hover {
     border-radius: 5px;
     background-color: #f9f9f9;
 }
+/* Add this to your CSS file */
+.search-filter {
+	display: flex;
+	align-items: center;
+	gap: 10px;
+	margin-bottom: 20px;
+}
+
+.search-input-wrapper {
+	position: relative;
+	flex-grow: 1;
+}
+
+.search-filter input[type="text"] {
+	padding: 5px;
+	font-size: 16px;
+	width: 100%;
+	box-sizing: border-box;
+}
+
+.clear-button {
+	position: absolute;
+	right: 0;
+	top: 50%;
+	transform: translateY(-50%);
+	background: none;
+	border: none;
+	color: #888;
+	cursor: pointer;
+	font-size: 16px;
+	padding: 0 5px; /* Adjust padding to contain the 'X' within the search bar */
+	height: 100%; /* Match the height of the input field */
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	box-sizing: border-box;
+}
+
+.clear-button:hover {
+	background: rgba(0, 0, 0, 0.1); /* Optional: Add a background color on hover */
+}
+
+.search-filter label {
+	display: flex;
+	align-items: center;
+	gap: 5px;
+	font-size: 16px;
+}

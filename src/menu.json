@@ -5,25 +5,25 @@
 				"name": "New York Strip",
 				"description": "16 oz. Strip topped with garlic shallot butter. Served with roasted potatoes and brussel sprouts. (add crab cake $6) 27",
 				"price": 27,
-				"image": "https://scontent.fagc1-2.fna.fbcdn.net/v/t39.30808-6/415919300_886411973487970_3872603165546044029_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=00RvVlKIPfsQ7kNvgFrrEP4&_nc_ht=scontent.fagc1-2.fna&oh=00_AYDe7Tt36yh9R1T2gJO-E6OPZ_FeW_mpWsDKhNJ7tFNEwQ&oe=665D3638" 
+				"image": "images/menu-Images/New-York-Strip-Steak.jpeg" 
 			},
 			{
 				"name": "Mahi Mahi",
 				"description": "Brown butter mahi mahi served with creamy parmesan risotto and asparagus.",
 				"price": 21,
-				"image": "https://scontent.fagc1-2.fna.fbcdn.net/v/t39.30808-6/415919300_886411973487970_3872603165546044029_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=00RvVlKIPfsQ7kNvgFrrEP4&_nc_ht=scontent.fagc1-2.fna&oh=00_AYDe7Tt36yh9R1T2gJO-E6OPZ_FeW_mpWsDKhNJ7tFNEwQ&oe=665D3638" 
+				"image": "images/menu-Images/mahi-mahi.jpeg" 
 			},
 			{
 				"name": "Ale Battered Fish and Chips",
 				"description": "Cod battered to order, topped with pickled onions.  Served with old bay fries and housemade dill tartar.",
 				"price": 18.5,
-				"image": "https://scontent.fagc1-2.fna.fbcdn.net/v/t39.30808-6/415919300_886411973487970_3872603165546044029_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=00RvVlKIPfsQ7kNvgFrrEP4&_nc_ht=scontent.fagc1-2.fna&oh=00_AYDe7Tt36yh9R1T2gJO-E6OPZ_FeW_mpWsDKhNJ7tFNEwQ&oe=665D3638" 
+				"image": "images/menu-Images/fish-chips.jpeg" 
 			},
 			{
 				"name": "1/2 Chicken",
 				"description": "Topped with hat honey and slow cooked roasted potatoes and brussel sprouts.",
 				"price": 20,
-				"image": "https://scontent.fagc1-2.fna.fbcdn.net/v/t39.30808-6/415919300_886411973487970_3872603165546044029_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=00RvVlKIPfsQ7kNvgFrrEP4&_nc_ht=scontent.fagc1-2.fna&oh=00_AYDe7Tt36yh9R1T2gJO-E6OPZ_FeW_mpWsDKhNJ7tFNEwQ&oe=665D3638" 
+				"image": "images/menu-Images/chicken-potatoes.jpeg" 
 			},
 			{
 				"name": "Mushroom Risotto",
@@ -55,25 +55,25 @@
 				"name": "Skook Steak",
 				"description": "Chipped kielbasa, grilled onion and beer cheese on a fresh steak roll",
 				"price": 12.5,
-				"image": "https://scontent.fagc1-2.fna.fbcdn.net/v/t39.30808-6/415919300_886411973487970_3872603165546044029_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=00RvVlKIPfsQ7kNvgFrrEP4&_nc_ht=scontent.fagc1-2.fna&oh=00_AYDe7Tt36yh9R1T2gJO-E6OPZ_FeW_mpWsDKhNJ7tFNEwQ&oe=665D3638" 
+				"image": "images/menu-Images/skook-steak.webp" 
 			},
 			{
 				"name": "Bison Burger",
 				"description": "8 oz. bison burger with pepper jack cheese, pickled red onion, Boston lettuce, and plum tomato and fresh cut fries.",
 				"price": 17.5,
-				"image": "https://scontent.fagc1-2.fna.fbcdn.net/v/t39.30808-6/415919300_886411973487970_3872603165546044029_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=00RvVlKIPfsQ7kNvgFrrEP4&_nc_ht=scontent.fagc1-2.fna&oh=00_AYDe7Tt36yh9R1T2gJO-E6OPZ_FeW_mpWsDKhNJ7tFNEwQ&oe=665D3638" 
+				"image": "images/menu-Images/bison-burger.webp" 
 			},
 			{
 				"name": "BBQ Chicken Quesadilla",
 				"description": "Grilled chicken, caramelized, roasted tomatoes, cheddar jack cheese, BBQ.",
 				"price": 14,
-				"image": "https://scontent.fagc1-2.fna.fbcdn.net/v/t39.30808-6/415919300_886411973487970_3872603165546044029_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=00RvVlKIPfsQ7kNvgFrrEP4&_nc_ht=scontent.fagc1-2.fna&oh=00_AYDe7Tt36yh9R1T2gJO-E6OPZ_FeW_mpWsDKhNJ7tFNEwQ&oe=665D3638" 
+				"image": "images/menu-Images/Chicken-Quesadillas.jpeg" 
 			},
 			{
 				"name": "French Dip",
 				"description": "Roast beef, horseradish cream sauce, melted swiss cheese and side of Au Jus and fresh cut fries.",
 				"price": 12.5,
-				"image": "https://scontent.fagc1-2.fna.fbcdn.net/v/t39.30808-6/415919300_886411973487970_3872603165546044029_n.jpg?_nc_cat=109&ccb=1-7&_nc_sid=5f2048&_nc_ohc=00RvVlKIPfsQ7kNvgFrrEP4&_nc_ht=scontent.fagc1-2.fna&oh=00_AYDe7Tt36yh9R1T2gJO-E6OPZ_FeW_mpWsDKhNJ7tFNEwQ&oe=665D3638" 
+				"image": "images/menu-Images/french-dip.jpeg" 
 			},
 			{
 				"name": "Tavern Panini",

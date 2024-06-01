@@ -14,11 +14,20 @@ function Whiskey() {
 		setIsFeatured(event.target.checked);
 	};
 
+	const handleClearSearch = () => {
+		setSearchTerm("");
+		setIsFeatured(false);
+	};
+
 	const filteredProducts = products.filter((product) => {
 		const lowerCaseSearchTerm = searchTerm.toLowerCase();
+		const name = product.name ? product.name.toLowerCase() : "";
+		const description = product.description ? product.description.toLowerCase() : "";
+		const key = product.key ? product.key.toLowerCase() : "";
 		return (
-			(product.name.toLowerCase().includes(lowerCaseSearchTerm) ||
-				product.description.toLowerCase().includes(lowerCaseSearchTerm)) &&
+			(name.includes(lowerCaseSearchTerm) ||
+				description.includes(lowerCaseSearchTerm) ||
+				key.includes(lowerCaseSearchTerm)) &&
 			(!isFeatured || product.featured)
 		);
 	});
@@ -26,12 +35,19 @@ function Whiskey() {
 	return (
 		<section id="whiskey-home">
 			<div className="search-filter">
-				<input
-					type="text"
-					placeholder="Search for a whiskey..."
-					value={searchTerm}
-					onChange={handleSearchChange}
-				/>
+				<div className="search-input-wrapper">
+					<input
+						type="text"
+						placeholder="Search for a whiskey..."
+						value={searchTerm}
+						onChange={handleSearchChange}
+					/>
+					{searchTerm && (
+						<button className="clear-button" onClick={handleClearSearch}>
+							X
+						</button>
+					)}
+				</div>
 				<label>
 					<input
 						type="checkbox"
@@ -41,7 +57,7 @@ function Whiskey() {
 					Featured
 				</label>
 			</div>
-			<Card products={filteredProducts} />
+			<Card products={searchTerm || isFeatured ? filteredProducts : products} />
 		</section>
 	);
 }
