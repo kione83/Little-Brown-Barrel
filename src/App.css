@@ -469,3 +469,17 @@ button:hover {
 	gap: 5px;
 	font-size: 16px;
 }
+.footer-email{
+  text-decoration: none;
+  color:crimson;
+}
+.footer-content{
+  border-top: solid 1px black;
+  display: flex;
+  flex-direction: row;
+  
+}
+.footer-content a{
+  text-decoration: none;
+  
+}

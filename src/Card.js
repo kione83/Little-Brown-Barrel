@@ -1,6 +1,7 @@
 import React from "react";
 import StarIcon from "./StarIcon";
 
+
 function Card({ products }) {
 	return (
 		<div id="whiskey-container">
