@@ -18,7 +18,7 @@ function Card({ products }) {
 							<h2>{product.name}</h2>
 						</div>
 						<div>
-							<img src={product.image} alt={product.name} />
+							<img className='whiskey-image' src={product.image} alt={product.name} />
 						</div>
 						<div>
 							<p>${product.price}</p>
