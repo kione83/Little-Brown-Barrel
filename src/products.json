@@ -7,257 +7,257 @@
     "image": "/images/whiskey-images/jack-daniels-whiskey.webp",
     "featured": false,
     "website": "https://www.jackdaniels.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "2",
     "name": "Jack Daniels Gentleman Jack",
     "description": "Gentleman Jack is double charcoal-mellowed for exceptional smoothness and a refined taste, making it a premium Tennessee Whiskey.",
     "price": 40,
-    "image": "/images/jd-gent-jack.webp",
+    "image": "/images/whiskey-images/jd-gent-jack.webp",
     "featured": false,
     "website": "https://www.jackdaniels.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "3",
     "name": "Rogue Spirits Dead Guy Whiskey",
     "description": "Rogue Spirits Dead Guy Whiskey is a robust single malt whiskey, aged in oak barrels for a complex and unique flavor.",
     "price": 50,
-    "image": "/images/rogue-dead-guy.webp",
+    "image": "/images/whiskey-images/rogue-dead-guy.webp",
     "featured": false,
     "website": "https://rogue.com/spirits/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "4",
     "name": "Heaven's Door Double Barrel Whiskey",
     "description": "Heaven's Door Double Barrel Whiskey is a rich and full-bodied Tennessee whiskey, aged in two different barrels for a deep and complex flavor profile.",
     "price": 50,
-    "image": "/images/heavens-double-barrel.webp",
+    "image": "/images/whiskey-images/heavens-double-barrel.webp",
     "featured": false,
     "website": "https://heavensdoor.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "5",
     "name": "Ballotin Chocolate Peanut Butter",
     "description": "Ballotin Chocolate Peanut Butter is a delightful blend of rich chocolate and creamy peanut butter flavors, perfect for when life gets a little nutty.",
     "price": 25,
-    "image": "/images/ballotin-choc-pb.webp",
+    "image": "/images/whiskey-images/ballotin-choc-pb.webp",
     "featured": false,
     "website": "https://www.ballotinwhiskey.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "6",
     "name": "Fireball Cinnamon Whiskey",
     "description": "Fireball Cinnamon Whiskey is a fiery and spicy cinnamon-flavored whiskey, known for its bold and unforgettable taste.",
     "price": 20,
-    "image": "/images/fbCinna.avif",
+    "image": "/images/whiskey-images/fbCinna.avif",
     "featured": false,
     "website": "https://www.fireballwhisky.com/",
-    "origin": "Canada"
+    "origin": "Canadian"
   },
   {
     "id": "7",
     "name": "Jim Beam Red Stag",
     "description": "Jim Beam Red Stag is a black cherry-infused bourbon, offering a unique twist on the classic bourbon flavor.",
     "price": 25,
-    "image": "/images/jim-red-stag.webp",
+    "image": "/images/whiskey-images/jim-red-stag.webp",
     "featured": false,
     "website": "https://www.jimbeam.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "8",
     "name": "Screwball Peanut Butter Whiskey",
     "description": "Screwball Peanut Butter Whiskey is a smooth and creamy whiskey with a rich peanut butter flavor, perfect for cocktails and sipping.",
     "price": 25,
-    "image": "/images/screwball-pb.webp",
+    "image": "/images/whiskey-images/screwball-pb.webp",
     "featured": false,
     "website": "https://screwballwhiskey.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "9",
     "name": "Southern Comfort",
     "description": "Southern Comfort is a unique whiskey liqueur with a blend of whiskey, fruit, and spices, creating a smooth and versatile spirit.",
     "price": 25,
-    "image": "/images/sth-comfort.webp",
+    "image": "/images/whiskey-images/sth-comfort.webp",
     "featured": false,
     "website": "https://www.southerncomfort.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "10",
     "name": "Yukon Jack",
     "description": "Yukon Jack is a bold and rugged Canadian whiskey with a unique taste, often enjoyed as a shot or in cocktails.",
     "price": 20,
-    "image": "/images/yukonjack.png",
+    "image": "/images/whiskey-images/yukonjack.png",
     "featured": false,
     "website": "https://www.yukonjackwhisky.com/",
-    "origin": "Canada"
+    "origin": "Canadian"
   },
   {
     "id": "11",
     "name": "Wild Turkey American Honey",
     "description": "Wild Turkey American Honey is a smooth bourbon liqueur infused with pure honey, creating a sweet and mellow flavor.",
     "price": 25,
-    "image": "/images/wildTurkey-American.webp",
+    "image": "/images/whiskey-images/wildTurkey-American.webp",
     "featured": false,
     "website": "https://www.wildturkey.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "12",
     "name": "Jim Beam Vanilla",
     "description": "Jim Beam Vanilla is a delightful bourbon infused with rich vanilla flavor, perfect for cocktails or sipping straight.",
     "price": 25,
-    "image": "/images/jim-beam-vanilla.webp",
+    "image": "/images/whiskey-images/jim-beam-vanilla.webp",
     "featured": false,
     "website": "https://www.jimbeam.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "13",
     "name": "Angel's Envy Port Barrel Finish",
     "description": "Angel's Envy Port Barrel Finish is a Kentucky Straight Bourbon finished in port wine barrels, offering a rich and complex flavor profile.",
     "price": 50,
-    "image": "/images/AngelsEnvyPortBarrel.webp",
+    "image": "/images/whiskey-images/AngelsEnvyPortBarrel.webp",
     "featured": false,
     "website": "https://www.angelsenvy.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "14",
     "name": "Daringer Rabbit Hole Sherry Cask",
     "description": "Daringer Rabbit Hole Sherry Cask is a Kentucky Straight Bourbon finished in sherry casks, providing a smooth and sophisticated taste.",
     "price": 60,
-    "image": "/images/rabbit-hole-sherry-cask.png",
+    "image": "/images/whiskey-images/rabbit-hole-sherry-cask.png",
     "featured": false,
     "website": "https://rabbitholedistillery.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "15",
     "name": "Legent Wine and Sherry Cask",
     "description": "Legent Wine and Sherry Cask is a unique blend of Kentucky Straight Bourbon finished in wine and sherry casks, delivering a complex and layered flavor.",
     "price": 50,
-    "image": "/images/legent-sherry-cask.webp",
+    "image": "/images/whiskey-images/legent-sherry-cask.webp",
     "featured": false,
     "website": "https://www.legentbourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "16",
     "name": "Thomas S. Moore Merlot Cask",
     "description": "Thomas S. Moore Merlot Cask is a Kentucky Straight Bourbon finished in Merlot wine casks, offering a unique and rich taste experience.",
     "price": 70,
-    "image": "/images/tsmoore-merlot-cask.avif",
+    "image": "/images/whiskey-images/tsmoore-merlot-cask.avif",
     "featured": false,
     "website": "https://www.buffalotracedistillery.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "17",
     "name": "Thomas S. Moore Sherry Cask",
     "description": "Thomas S. Moore Sherry Cask is a Kentucky Straight Bourbon finished in sherry casks, providing a deep and flavorful profile.",
     "price": 70,
-    "image": "/images/tsmoore-sherry-cask.avif",
+    "image": "/images/whiskey-images/tsmoore-sherry-cask.avif",
     "featured": false,
     "website": "https://www.buffalotracedistillery.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "18",
     "name": "Basil Hayden Red Wine Cask",
     "description": "Basil Hayden Red Wine Cask is a Kentucky Straight Bourbon finished in red wine casks, creating a rich and layered flavor.",
     "price": 70,
-    "image": "/images/basil-hayden-red-cask.webp",
+    "image": "/images/whiskey-images/basil-hayden-red-cask.webp",
     "featured": false,
     "website": "https://www.basilhaydens.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "19",
     "name": "Basil Hayden",
     "description": "Basil Hayden's is a smooth and approachable straight bourbon, known for its light body and unique flavor profile.",
     "price": 50,
-    "image": "/images/BasilHaydensTransp.webp",
+    "image": "/images/whiskey-images/BasilHaydensTransp.webp",
     "featured": false,
     "website": "https://www.basilhaydens.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "20",
     "name": "Bluebird Four Grain",
     "description": "Bluebird Four Grain is a straight bourbon made from a unique blend of four grains, offering a complex and flavorful taste.",
     "price": 50,
-    "image": "/images/FourGrainBourbon3.webp",
+    "image": "/images/whiskey-images/FourGrainBourbon3.webp",
     "featured": false,
     "website": "https://bluebirddistilling.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "21",
     "name": "Breckenridge Bourbon",
     "description": "Breckenridge Bourbon is a straight bourbon known for its high-rye content and rich, spicy flavor profile.",
     "price": 50,
-    "image": "/images/breckenridgeBourbon.png",
+    "image": "/images/whiskey-images/breckenridgeBourbon.png",
     "featured": false,
     "website": "https://breckenridgedistillery.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "22",
     "name": "Buffalo Trace",
     "description": "Buffalo Trace is a straight bourbon with a complex aroma of vanilla, mint, and molasses, and a smooth, rich taste.",
     "price": 30,
-    "image": "/images/buffalo-desktop-bottle.png",
+    "image": "/images/whiskey-images/buffalo-desktop-bottle.png",
     "featured": false,
     "website": "https://www.buffalotracedistillery.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "23",
     "name": "Bulleit Bourbon",
     "description": "Bulleit Bourbon is known for its high-rye content, giving it a bold and spicy flavor profile that stands out.",
     "price": 30,
-    "image": "/images/bulleit-bourbon.webp",
+    "image": "/images/whiskey-images/bulleit-bourbon.webp",
     "featured": false,
     "website": "https://www.bulleit.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "24",
     "name": "Clyde Mays",
     "description": "Clyde May's is a straight bourbon crafted with a unique Alabama-style twist, offering a smooth and distinct flavor.",
     "price": 45,
-    "image": "/images/clydemays-bourbon.png",
+    "image": "/images/whiskey-images/clydemays-bourbon.png",
     "featured": false,
     "website": "https://www.clydemays.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "25",
     "name": "Cooper's Craft",
     "description": "Cooper's Craft is a straight bourbon known for its light and smooth flavor, enhanced by a unique beech and birch charcoal finishing process.",
     "price": 60,
-    "image": "/images/coopers-bourbon.webp",
+    "image": "/images/whiskey-images/coopers-bourbon.webp",
     "featured": false,
     "website": "https://www.cooperscraft.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "26",
     "name": "Evan Williams Black Label",
     "description": "Evan Williams Black Label is a classic straight bourbon known for its smooth and rich flavor, making it one of the best-selling bourbons in the world.",
     "price": 20,
-    "image": "/images/evanwilliams-black.jpeg",
+    "image": "/images/whiskey-images/evanwilliams-black.jpeg",
     "featured": false,
     "website": "https://www.evanwilliams.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "27",
@@ -267,7 +267,7 @@
     "image": "https://seelbachs.com/cdn/shop/files/traveller-whiskey-750ml-bottle-brand-page-664x1365_grande.png?v=1709668381",
     "featured": false,
     "website": "https://travellerwhiskey.com",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "28",
@@ -277,177 +277,177 @@
     "image": "https://www.totalwine.com/dynamic/490x/media/sys_master/twmmedia/hec/h58/26848534593566.png",
     "featured": false,
     "website": "https://heavenhilldistillery.com",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "29",
     "name": "G&W Private Stock 6-year",
     "description": "G&W Private Stock 6-year is a premium straight bourbon, aged for six years to deliver a smooth and rich taste.",
     "price": "60",
-    "image": "images/gwprivate-6year.png",
+    "image": "images/whiskey-images/gwprivate-6year.png",
     "featured": false,
     "website": "",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "30",
     "name": "Hudson Whiskey NY",
     "description": "Hudson Whiskey NY is a straight bourbon crafted with New York grain, offering a unique and bold flavor profile.",
     "price": "50",
-    "image": "images/hudson-ny.png",
+    "image": "images/whiskey-images/hudson-ny.png",
     "featured": false,
     "website": "https://www.hudsonwhiskey.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "31",
     "name": "Jim Beam",
     "description": "Jim Beam is a classic straight bourbon known for its rich, full-bodied flavor with notes of caramel and vanilla.",
     "price": "25",
-    "image": "images/jimbeam-original.webp",
+    "image": "images/whiskey-images/jimbeam-original.webp",
     "featured": false,
     "website": "https://jimbeam.com",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "32",
     "name": "Jim Beam Double Oaked",
     "description": "Jim Beam Double Oaked is a straight bourbon aged in two different oak barrels for a deeper, richer flavor profile.",
     "price": "30",
-    "image": "images/jimbeam-doubleoak.webp",
+    "image": "images/whiskey-images/jimbeam-doubleoak.webp",
     "featured": false,
     "website": "https://jimbeam.com",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "33",
     "name": "Maker's Mark",
     "description": "Maker's Mark is a popular Kentucky straight bourbon whiskey known for its smooth, rich flavor profile with hints of vanilla and caramel.",
     "price": "30",
-    "image": "images/makers-mark-bourbon-whisky.png",
+    "image": "images/whiskey-images/makers-mark-bourbon-whisky.png",
     "featured": false,
     "website": "https://www.makersmark.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "34",
     "name": "Maker's Mark 46",
     "description": "Maker's Mark 46 is a bourbon with a unique finishing process, delivering bolder and spicier flavors than the original Maker's Mark.",
     "price": "40",
-    "image": "images/makersmark-46.webp",
+    "image": "images/whiskey-images/makersmark-46.webp",
     "featured": false,
     "website": "https://www.makersmark.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "35",
     "name": "Noble Oak Double Oak",
     "description": "Noble Oak Double Oak is a bourbon finished with sherry oak staves, offering a complex flavor profile with notes of dried fruit and spice.",
     "price": "45",
-    "image": "images/noble_oak_double_oak_bourbon.png",
+    "image": "images/whiskey-images/noble_oak_double_oak_bourbon.png",
     "featured": false,
     "website": "https://www.nobleoak.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "36",
     "name": "Old Elk",
     "description": "Old Elk is a high-quality bourbon with a smooth and rich taste, characterized by hints of vanilla, toffee, and oak.",
     "price": "50",
-    "image": "images/old-elk.webp",
+    "image": "images/whiskey-images/old-elk.webp",
     "featured": false,
     "website": "https://www.oldelk.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "37",
     "name": "Rebel",
     "description": "Rebel is a wheated bourbon that provides a smooth, approachable flavor with notes of honey, vanilla, and a hint of spice.",
     "price": "25",
-    "image": "images/rebel-bourbon.webp",
+    "image": "images/whiskey-images/rebel-bourbon.webp",
     "featured": false,
     "website": "https://www.rebelbourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "38",
     "name": "Redemption",
     "description": "Redemption Bourbon offers a balanced and flavorful experience with strong notes of caramel, spice, and oak.",
     "price": "35",
-    "image": "images/redemption-bourbon.webp",
+    "image": "images/whiskey-images/redemption-bourbon.webp",
     "featured": false,
     "website": "https://www.redemptionwhiskey.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "39",
     "name": "Yellowstone Select",
     "description": "Yellowstone Select is a bourbon that blends sweet and spicy flavors with notes of caramel, vanilla, and a touch of oak.",
     "price": "45",
-    "image": "images/yellowstone-select.webp",
+    "image": "images/whiskey-images/yellowstone-select.webp",
     "featured": false,
     "website": "https://www.yellowstonebourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "40",
     "name": "Wild Turkey 101",
     "description": "Wild Turkey 101 is a bold, high-proof bourbon with robust flavors of caramel, vanilla, and oak, with a spicy finish.",
     "price": "25",
-    "image": "images/wild-turkey-101-bourbon-whiskey.webp",
+    "image": "images/whiskey-images/wild-turkey-101-bourbon-whiskey.webp",
     "featured": false,
     "website": "https://www.wildturkeybourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "41",
     "name": "Eagle Rare",
     "description": "Eagle Rare is a premium bourbon known for its rich, complex flavor profile with notes of toffee, orange peel, and oak.",
     "price": "40",
-    "image": "images/eagle-rare-desktop-bottle.png",
+    "image": "images/whiskey-images/eagle-rare-desktop-bottle.png",
     "featured": false,
     "website": "https://www.buffalotracedistillery.com/brands/eagle-rare.html",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "42",
     "name": "David E. Black",
     "description": "David E. Black is a well-balanced bourbon with a smooth taste, featuring hints of vanilla, caramel, and spice.",
     "price": "50",
-    "image": "images/david-e-black.jpeg",
+    "image": "images/whiskey-images/david-e-black.jpeg",
     "featured": false,
     "website": "https://www.davideblack.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "43",
     "name": "Heaven Hill Bottled-in-Bond",
     "description": "Heaven Hill Bottled-in-Bond is a quality bourbon offering rich flavors of caramel, vanilla, and oak with a smooth finish.",
     "price": "40",
-    "image": "images/heaven-hill-bottledbond.webp",
+    "image": "images/whiskey-images/heaven-hill-bottledbond.webp",
     "featured": false,
     "website": "https://www.heavenhilldistillery.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "44",
     "name": "Pappy Van Winkle 15-year",
     "description": "Pappy Van Winkle 15-year is a highly sought-after bourbon with a complex flavor profile of caramel, spice, and oak.",
     "price": "300",
-    "image": "images/pappy-15-3x.png",
+    "image": "images/whiskey-images/pappy-15-3x.png",
     "featured": false,
     "website": "https://www.oldripvanwinkle.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "45",
     "name": "Booker's Tea Batch 6 year",
     "description": "Booker's Tea Batch 6 year is a cask-strength bourbon with a bold, robust flavor featuring notes of vanilla, oak, and spice.",
     "price": "80",
-    "image": "images/bookersTea-6.webp",
+    "image": "images/whiskey-images/bookersTea-6.webp",
     "featured": false,
     "website": "https://www.bookersbourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "46",
@@ -457,517 +457,517 @@
     "image": "images/whiskey-images/FourRosesBourbon.webp",
     "featured": false,
     "website": "https://www.fourrosesbourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "47",
     "name": "Koval",
     "description": "Koval is an organic, small-batch bourbon offering a unique flavor profile with hints of fruit, spice, and vanilla.",
     "price": "50",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/koval-whiskey.webp",
     "featured": false,
     "website": "https://www.koval-distillery.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "48",
     "name": "Widow Jane 10 year",
     "description": "Widow Jane 10 year is a premium bourbon with a rich, complex flavor featuring notes of cherry, vanilla, and oak.",
     "price": "70",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/widow-jane-10.webp",
     "featured": false,
     "website": "https://www.widowjane.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "49",
     "name": "Jack Daniel's Barrel Proof",
     "description": "Jack Daniel's Barrel Proof is a full-bodied, high-proof bourbon with intense flavors of caramel, vanilla, and toasted oak.",
     "price": "60",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/jack-daniels-barrel-proof.webp",
     "featured": false,
     "website": "https://www.jackdaniels.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "50",
     "name": "E.H. Taylor",
     "description": "E.H. Taylor Small Batch is a premium bourbon known for its rich and complex flavor profile with notes of caramel, vanilla, and oak.",
     "price": "60",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/eh-taylor-smallBatch.webp",
     "featured": false,
     "website": "https://www.buffalotracedistillery.com/brands/eh-taylor.html",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "51",
     "name": "Calumet Farm",
     "description": "Calumet Farm Small Batch Bourbon is known for its rich flavor profile with notes of caramel, vanilla, and oak.",
     "price": "70",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Calumet-Farm-smallBatch.png",
     "featured": false,
     "website": "https://www.calumetfarmbourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "52",
     "name": "Elijah Craig",
     "description": "Elijah Craig Small Batch is a well-balanced bourbon with flavors of caramel, vanilla, and oak, providing a smooth finish.",
     "price": "50",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/elijahCraig-toasted.avif",
     "featured": false,
     "website": "https://www.elijahcraig.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "53",
     "name": "Four Roses",
     "description": "Four Roses Small Batch is a smooth bourbon with a mellow taste, featuring notes of caramel, vanilla, and a hint of spice.",
     "price": "30",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/FourRosesBourbon.webp",
     "featured": false,
     "website": "https://www.fourrosesbourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "54",
     "name": "Jefferson's",
     "description": "Jefferson's Small Batch Bourbon is known for its balanced flavor profile with hints of vanilla, caramel, and oak.",
     "price": "50",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/jeffersons-smallBatch.webp",
     "featured": false,
     "website": "https://www.jeffersonsbourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "55",
     "name": "Jefferson's Ocean Aged",
     "description": "Jefferson's Ocean Aged Bourbon is a unique small batch bourbon aged at sea, offering complex flavors with hints of salted caramel and oak.",
     "price": "80",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/jefferson-aged-sea.webp",
     "featured": false,
     "website": "https://www.jeffersonsbourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "56",
     "name": "Knob Creek",
     "description": "Knob Creek Small Batch Bourbon is a full-bodied bourbon with rich flavors of caramel, vanilla, and oak, providing a bold finish.",
     "price": "40",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/knobCreek-smallBatch.webp",
     "featured": false,
     "website": "https://www.knobcreek.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "57",
     "name": "Larceny",
     "description": "Larceny Small Batch Bourbon offers a smooth and sweet flavor profile with notes of honey, caramel, and a hint of spice.",
     "price": "25",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/larceny-smallBatch.png",
     "featured": false,
     "website": "https://www.larcenybourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "58",
     "name": "Woodford Reserve",
     "description": "Woodford Reserve Small Batch Bourbon is known for its balanced flavor with rich notes of dried fruit, vanilla, and toasted oak.",
     "price": "35",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/woodfordReserve.webp",
     "featured": false,
     "website": "https://www.woodfordreserve.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "59",
     "name": "1792",
     "description": "1792 Small Batch Bourbon is a well-crafted bourbon with a complex flavor profile, featuring notes of caramel, vanilla, and a touch of spice.",
     "price": "30",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/1792-bourbon.webp",
     "featured": false,
     "website": "https://www.1792bourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "60",
     "name": "Evan Williams 1783",
     "description": "Evan Williams 1783 is a smooth bourbon with a rich, full-bodied flavor, featuring notes of caramel and vanilla.",
     "price": "20",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Evan-Williams-1783-Small-Batch.jpeg",
     "featured": false,
     "website": "https://www.evanwilliams.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "61",
     "name": "Bowman Brothers",
     "description": "Bowman Brothers Small Batch is known for its smooth and balanced flavor profile with notes of caramel, vanilla, and oak.",
     "price": "30",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Bowman-Brothers-Small-Batch.png",
     "featured": false,
     "website": "https://www.asmithbowman.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "62",
     "name": "Maker's Mark Wood Finishing",
     "description": "Maker's Mark Wood Finishing is a small batch bourbon with a unique finishing process that enhances its rich and complex flavors.",
     "price": "60",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/makersMark-woodFinish.webp",
     "featured": false,
     "website": "https://www.makersmark.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "63",
     "name": "Basil Hayden 10-year",
     "description": "Basil Hayden 10-year is a small batch bourbon aged for a decade, offering a refined and smooth taste with notes of vanilla and oak.",
     "price": "80",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/basilHayden-10.webp",
     "featured": false,
     "website": "https://www.basilhaydenbourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "64",
     "name": "David E. Bottled-in-Bond",
     "description": "David E. Bottled-in-Bond is a small batch bourbon with a rich and bold flavor profile, featuring notes of caramel and spice.",
     "price": "50",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/davidE-bottledBond.webp",
     "featured": false,
     "website": "https://www.davidebourbon.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "65",
     "name": "Elijah Craig Toasted Barrel",
     "description": "Elijah Craig Toasted Barrel is a small batch bourbon finished in toasted barrels, providing a smooth and complex flavor.",
     "price": "70",
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/elijahCraig-toasted.avif",
     "featured": false,
     "website": "https://www.elijahcraig.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "66",
     "name": "Canadian Gold",
     "description": "Canadian Gold is a smooth Canadian whiskey with a light, mellow flavor featuring hints of caramel and vanilla.",
     "price": 25,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/canadianGold.webp",
     "featured": false,
     "website": "https://www.example.com/",
-    "origin": "Canada"
+    "origin": "Canadian"
   },
   {
     "id": "67",
     "name": "Seagram's VO",
     "description": "Seagram's VO is a classic Canadian whiskey known for its smooth and light flavor profile with notes of vanilla and spice.",
     "price": 30,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/seagramsVO.webp",
     "featured": false,
     "website": "https://www.example.com/",
-    "origin": "Canada"
+    "origin": "Canadian"
   },
   {
     "id": "68",
     "name": "Seagrams 7",
     "description": "Seagrams 7 is a popular Canadian whiskey with a smooth and approachable flavor, featuring notes of caramel and vanilla.",
     "price": 20,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/seagrams-7.png",
     "featured": false,
     "website": "https://www.example.com/",
-    "origin": "Canada"
+    "origin": "Canadian"
   },
   {
     "id": "69",
     "name": "Crown Royal",
     "description": "Crown Royal is a premium Canadian whiskey with a smooth and complex flavor profile featuring notes of vanilla, caramel, and oak.",
     "price": 35,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/crownRoyal.webp",
     "featured": false,
     "website": "https://www.crownroyal.com/",
-    "origin": "Canada"
+    "origin": "Canadian"
   },
   {
     "id": "70",
     "name": "Crown Royal Apple",
     "description": "Crown Royal Apple is a Canadian whiskey infused with natural apple flavors, offering a crisp and smooth taste.",
     "price": 35,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/crownRoyalApple.webp",
     "featured": false,
     "website": "https://www.crownroyal.com/",
-    "origin": "Canada"
+    "origin": "Canadian"
   },
   {
     "id": "71",
     "name": "Crown Royal Peach",
     "description": "Crown Royal Peach is a Canadian whiskey infused with natural peach flavors, providing a smooth and sweet taste.",
     "price": 35,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/crownRoyalPeach.webp",
     "featured": false,
     "website": "https://www.crownroyal.com/",
-    "origin": "Canada"
+    "origin": "Canadian"
   },
   {
     "id": "72",
     "name": "Crown Royal Vanilla",
     "description": "Crown Royal Vanilla is a Canadian whiskey infused with Madagascar vanilla, offering a rich and creamy flavor profile.",
     "price": 35,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/crownRoyalVanilla.avif",
     "featured": false,
     "website": "https://www.crownroyal.com/",
-    "origin": "Canada"
+    "origin": "Canadian"
   },
   {
     "id": "73",
     "name": "Jameson",
-    "description": "Jameson is a renowned Irish whiskey with a smooth and balanced flavor profile featuring notes of vanilla, spice, and sherry.",
+    "description": "Jameson is a renowned Ireland whiskey with a smooth and balanced flavor profile featuring notes of vanilla, spice, and sherry.",
     "price": 30,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/jameson-irish.jpeg",
     "featured": false,
     "website": "https://www.jamesonwhiskey.com/",
-    "origin": "Ireland"
+    "origin": "Irish"
   },
   {
     "id": "74",
     "name": "Jameson Orange",
-    "description": "Jameson Orange is an Irish whiskey with natural orange flavors, offering a unique and refreshing taste.",
+    "description": "Jameson Orange is an Ireland whiskey with natural orange flavors, offering a unique and refreshing taste.",
     "price": 35,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/jamesonOrange.webp",
     "featured": false,
     "website": "https://www.jamesonwhiskey.com/",
-    "origin": "Ireland"
+    "origin": "Irish"
   },
   {
     "id": "75",
     "name": "Jameson Black Barrel",
-    "description": "Jameson Black Barrel is an Irish whiskey known for its rich, smooth flavor with notes of vanilla, toasted wood, and spice.",
+    "description": "Jameson Black Barrel is an Ireland whiskey known for its rich, smooth flavor with notes of vanilla, toasted wood, and spice.",
     "price": 40,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/jamesonBlackBarrel.webp",
     "featured": false,
     "website": "https://www.jamesonwhiskey.com/",
-    "origin": "Ireland"
+    "origin": "Irish"
   },
   {
     "id": "76",
     "name": "Jameson 18",
-    "description": "Jameson 18 is a premium Irish whiskey offering a complex flavor profile with notes of spice, toffee, and hints of sherry.",
+    "description": "Jameson 18 is a premium Ireland whiskey offering a complex flavor profile with notes of spice, toffee, and hints of sherry.",
     "price": 120,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/jameson-18.webp",
     "featured": false,
     "website": "https://www.jamesonwhiskey.com/",
-    "origin": "Ireland"
+    "origin": "Irish"
   },
   {
     "id": "77",
     "name": "Sexton",
-    "description": "Sexton is an Irish whiskey with a smooth and rich taste, featuring notes of dried fruit, nuts, and a hint of sherry.",
+    "description": "Sexton is an Ireland whiskey with a smooth and rich taste, featuring notes of dried fruit, nuts, and a hint of sherry.",
     "price": 25,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/sexton-irish.webp",
     "featured": false,
     "website": "https://www.thesexton.com/",
-    "origin": "Ireland"
+    "origin": "Irish"
   },
   {
     "id": "78",
     "name": "Redbreast 12",
-    "description": "Redbreast 12 is a renowned Irish whiskey with a complex flavor profile, featuring notes of fruit, spice, and sherry.",
+    "description": "Redbreast 12 is a renowned Ireland whiskey with a complex flavor profile, featuring notes of fruit, spice, and sherry.",
     "price": 70,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/redbreast-12.webp",
     "featured": false,
     "website": "https://www.redbreastwhiskey.com/",
-    "origin": "Ireland"
+    "origin": "Irish"
   },
   {
     "id": "79",
     "name": "Tullamore Dew",
-    "description": "Tullamore Dew is a smooth Irish whiskey with a rich flavor profile featuring notes of apple, vanilla, and spice.",
+    "description": "Tullamore Dew is a smooth Ireland whiskey with a rich flavor profile featuring notes of apple, vanilla, and spice.",
     "price": 30,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/tullamoreDew.webp",
     "featured": false,
     "website": "https://www.tullamoredew.com/",
-    "origin": "Ireland"
+    "origin": "Irish"
   },
   {
     "id": "80",
     "name": "George Dickel",
     "description": "George Dickel Rye Whiskey is known for its smooth and spicy flavor profile with notes of caramel, vanilla, and oak.",
     "price": 35,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/georgeDickel.webp",
     "featured": false,
     "website": "https://www.georgedickel.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "81",
     "name": "Knob Creek",
     "description": "Knob Creek Rye Whiskey offers a bold and spicy flavor profile with rich notes of caramel, vanilla, and toasted oak.",
     "price": 40,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/knobCreek9Yr.webp",
     "featured": false,
     "website": "https://www.knobcreek.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "82",
     "name": "Templeton 4-Year",
     "description": "Templeton 4-Year Rye Whiskey is a well-balanced rye with flavors of caramel, spice, and a hint of vanilla.",
     "price": 45,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/templeton-4yr.webp",
     "featured": false,
     "website": "https://www.templetonrye.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "83",
     "name": "Whistle Pig 6-Year",
     "description": "Whistle Pig 6-Year Rye Whiskey is known for its rich and complex flavor profile featuring notes of caramel, spice, and oak.",
     "price": 60,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/whistlePig-6yr.webp",
     "featured": false,
     "website": "https://www.whistlepigwhiskey.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "84",
     "name": "Widow Jane Applewood",
     "description": "Widow Jane Applewood Rye Whiskey offers a unique flavor profile with notes of apple, caramel, and a hint of spice.",
     "price": 50,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/widow-jane-10.webp",
     "featured": false,
     "website": "https://www.widowjane.com/",
-    "origin": "USA"
+    "origin": "American"
   },
   {
     "id": "85",
     "name": "Johnnie Walker Black Label 12-year",
     "description": "Johnnie Walker Black Label 12-year is a premium blended Scotch whiskey known for its smooth and rich flavor with notes of vanilla, dried fruit, and smoky peat.",
     "price": 40,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Johnnie-Walker-Black-Label-12-year.png",
     "featured": false,
     "website": "https://www.johnniewalker.com/",
-    "origin": "Scotland"
+    "origin": "Scottish"
   },
   {
     "id": "86",
     "name": "Dewar's White Label",
     "description": "Dewar's White Label is a smooth blended Scotch whiskey with a light, mellow flavor profile featuring notes of honey, vanilla, and a hint of smoke.",
     "price": 25,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/dewars-white-label.webp",
     "featured": false,
     "website": "https://www.dewars.com/",
-    "origin": "Scotland"
+    "origin": "Scottish"
   },
   {
     "id": "87",
     "name": "Chivas Regal 12-Year",
     "description": "Chivas Regal 12-Year is a premium blended Scotch whiskey with a rich, smooth flavor profile featuring notes of honey, vanilla, and apple.",
     "price": 35,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/chivas-regal-12.webp",
     "featured": false,
     "website": "https://www.chivas.com/",
-    "origin": "Scotland"
+    "origin": "Scottish"
   },
   {
     "id": "88",
     "name": "Laphroaig 10-Year",
     "description": "Laphroaig 10-Year is a classic Islay whiskey known for its bold, peaty flavor with notes of seaweed, smoke, and a hint of sweetness.",
     "price": 60,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Laphroaig-10-Year.webp",
     "featured": false,
     "website": "https://www.laphroaig.com/",
-    "origin": "Scotland"
+    "origin": "Scottish"
   },
   {
     "id": "89",
     "name": "Laphroaig Cairdeas",
     "description": "Laphroaig Cairdeas is a limited edition Islay whiskey with a rich, smoky flavor profile featuring notes of spice, oak, and seaweed.",
     "price": 80,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Laphroaig-Cairdeas.webp",
     "featured": false,
     "website": "https://www.laphroaig.com/",
-    "origin": "Scotland"
+    "origin": "Scottish"
   },
   {
     "id": "90",
     "name": "Lagavulin 16-Year",
     "description": "Lagavulin 16-Year is a renowned Islay whiskey known for its intense smoky flavor with notes of dried fruit, peat, and vanilla.",
     "price": 100,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Lagavulin-16-Year.webp",
     "featured": false,
     "website": "https://www.lagavulin.com/",
-    "origin": "Scotland"
+    "origin": "Scottish"
   },
   {
     "id": "91",
     "name": "Glenmorangie 10-Year",
     "description": "Glenmorangie 10-Year is a Highland whiskey known for its smooth and fruity flavor profile with notes of peach, vanilla, and almond.",
     "price": 50,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Glenmorangie-10-Year.webp",
     "featured": false,
     "website": "https://www.glenmorangie.com/",
-    "origin": "Scotland"
+    "origin": "Scottish"
   },
   {
     "id": "92",
     "name": "Dalmore 12-Year",
     "description": "Dalmore 12-Year is a Highland whiskey offering a rich and complex flavor profile with notes of chocolate, coffee, and orange zest.",
     "price": 70,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Dalmore-12-Year.webp",
     "featured": false,
     "website": "https://www.thedalmore.com/",
-    "origin": "Scotland"
+    "origin": "Scottish"
   },
   {
     "id": "93",
     "name": "Macallan 12-Year Double Cask",
     "description": "Macallan 12-Year Double Cask is a Highland whiskey with a balanced flavor profile featuring notes of honey, citrus, and oak.",
     "price": 75,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Macallan-12-Year-Double-Cask.webp",
     "featured": false,
     "website": "https://www.themacallan.com/",
-    "origin": "Scotland"
+    "origin": "Scottish"
   },
   {
     "id": "94",
     "name": "Glenfiddich 12-Year",
     "description": "Glenfiddich 12-Year is a Highland whiskey known for its fresh and fruity flavor profile with notes of pear, oak, and butterscotch.",
     "price": 60,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Glenfiddich-12-Year.webp",
     "featured": false,
     "website": "https://www.glenfiddich.com/",
-    "origin": "Scotland"
+    "origin": "Scottish"
   },
   {
     "id": "95",
     "name": "Glenlivet 12-Year Double Oak",
     "description": "Glenlivet 12-Year Double Oak is a Highland whiskey with a smooth and creamy flavor profile featuring notes of vanilla, honey, and oak.",
     "price": 55,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Glenlivet-12-Year-Double-Oak.webp",
     "featured": false,
     "website": "https://www.theglenlivet.com/",
-    "origin": "Scotland"
+    "origin": "Scottish"
   },
   {
     "id": "96",
     "name": "Macallan 15-Year Double Cask",
     "description": "Macallan 15-Year Double Cask is a Highland whiskey offering a rich and complex flavor profile with notes of dried fruit, chocolate, and oak.",
     "price": 120,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Macallan-15-Year-Double-Cask.webp",
     "featured": false,
     "website": "https://www.themacallan.com/",
-    "origin": "Scotland"
+    "origin": "Scottish"
   },
   {
     "id": "97",
     "name": "Glenlivet 15-Year",
     "description": "Glenlivet 15-Year is a Highland whiskey with a refined flavor profile featuring notes of oak, spice, and a touch of citrus.",
     "price": 75,
-    "image": "URL_TO_IMAGE",
+    "image": "images/whiskey-images/Glenlivet-15-Year.webp",
     "featured": false,
     "website": "https://www.theglenlivet.com/",
-    "origin": "Scotland"
+    "origin": "Scottish"
   }
 
 ]

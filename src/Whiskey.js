@@ -29,15 +29,13 @@ function Whiskey() {
 		const lowerCaseSearchTerm = searchTerm.toLowerCase();
 		const name = product.name ? product.name.toLowerCase() : "";
 		const description = product.description ? product.description.toLowerCase() : "";
-		const key = product.key ? product.key.toLowerCase() : "";
 		const origin = product.origin ? product.origin.toLowerCase() : "";
 
 		return (
 			(name.includes(lowerCaseSearchTerm) ||
-				description.includes(lowerCaseSearchTerm) ||
-				key.includes(lowerCaseSearchTerm)) &&
+				description.includes(lowerCaseSearchTerm)) &&
 			(!isFeatured || product.featured) &&
-			(!selectedOrigin || product.key === origin)
+			(!selectedOrigin || origin.includes(selectedOrigin.toLowerCase()))
 		);
 	});
 
@@ -67,11 +65,8 @@ function Whiskey() {
 				</label>
 				<select value={selectedOrigin} onChange={handleOriginChange}>
 					<option value="">All Origins</option>
-					<option value="Rye">Rye</option>
-					<option value="Bourbon">Bourbon</option>
 					<option value="American">American</option>
 					<option value="Canadian">Canadian</option>
-					<option value="Islay">Islay</option>
 					<option value="Scottish">Scottish</option>
 					<option value="Irish">Irish</option>
 				</select>
