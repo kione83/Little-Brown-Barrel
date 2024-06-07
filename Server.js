@@ -6,6 +6,7 @@ const cors = require("cors");
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+
 app.use(bodyParser.json());
 app.use(cors());
 // Endpoint to get products
@@ -18,6 +19,7 @@ app.get("/api/products", (req, res) => {
 		res.status(200).json(JSON.parse(data));
 	});
 });
+
 
 // Endpoint to add a new product
 app.post("/api/products", (req, res) => {
