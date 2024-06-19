@@ -491,3 +491,193 @@ button:hover {
   text-decoration: none;
   
 }
+@media only screen and (max-width: 430px) {
+  .App {
+    text-align: center;
+  }
+
+  .App-logo {
+    height: 30vmin;
+    pointer-events: none;
+  }
+
+  .dropdown {
+    position: relative;
+  }
+
+  #banner {
+    flex-direction: column;
+    height: auto;
+    padding: 20px;
+  }
+
+  #banner-logo {
+    height: 10vh;
+  }
+
+  #banner-text {
+    font-size: 1em;
+    text-align: center;
+  }
+
+  #whiskey-container {
+    flex-direction: column;
+    padding: 5px;
+  }
+
+  .whiskey-card {
+    width: 80vw;
+    margin: 10px 0;
+    height: auto;
+    padding: 10px;
+  }
+
+  .whiskey-card img {
+    height: 200px;
+  }
+
+  .menu-item {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .menu-item img {
+    max-width: 90%;
+    height: auto;
+  }
+
+  #food-menu {
+    grid-template-columns: 1fr;
+  }
+
+  .food-price-desc {
+    margin-left: 0;
+  }
+
+  .admin-panel {
+    padding: 10px;
+  }
+
+  .admin-panel-content {
+    flex-direction: column;
+  }
+
+  .whiskey-list-container {
+    margin-right: 0;
+  }
+
+  .forms-container {
+    width: 100%;
+  }
+
+  .search-filter {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .search-filter input[type="text"] {
+    width: 100%;
+  }
+  
+  .footer-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+@media only screen and (max-width: 1024px) {
+  .App {
+    text-align: center;
+  }
+
+  .App-logo {
+    height: 35vmin;
+    pointer-events: none;
+  }
+
+  .dropdown {
+    position: relative;
+  }
+
+  #banner {
+    flex-direction: column;
+    height: auto;
+    padding: 15px;
+  }
+
+  #banner-logo {
+    height: 12vh;
+  }
+
+  #banner-text {
+    font-size: 1.1em;
+    text-align: center;
+  }
+
+  #whiskey-container {
+    flex-direction: column;
+    padding: 10px;
+  }
+
+  .whiskey-card {
+    width: 40vw;
+    margin: 10px 0;
+    height: auto;
+    padding: 10px;
+  }
+
+  .whiskey-card img {
+    height: 250px;
+  }
+
+  .menu-item {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+
+  .menu-item img {
+    max-width: 80%;
+    height: auto;
+  }
+
+  #food-menu {
+    grid-template-columns: 1fr;
+  }
+
+  .food-price-desc {
+    margin-left: 0;
+  }
+
+  .admin-panel {
+    padding: 15px;
+  }
+
+  .admin-panel-content {
+    flex-direction: column;
+  }
+
+  .whiskey-list-container {
+    margin-right: 0;
+  }
+
+  .forms-container {
+    width: 100%;
+  }
+
+  .search-filter {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .search-filter input[type="text"] {
+    width: 100%;
+  }
+
+  .footer-content {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
