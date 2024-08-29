@@ -21,7 +21,6 @@ function Card({ products }) {
 							<img className='whiskey-image' src={product.image} alt={product.name} />
 						</div>
 						<div>
-							<p>${product.price}</p>
 							<p id="whiskey-description-font">{product.description}</p>
 						</div>
 					</div>

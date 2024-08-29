@@ -52,7 +52,6 @@ const WhiskeyList = () => {
 					<tr>
 						<th>Name</th>
 						<th>ID</th>
-						<th>Price</th>
 						<th>Featured</th>
 						<th>Actions</th>
 					</tr>
@@ -78,15 +77,7 @@ const WhiskeyList = () => {
 									}
 								/>
 							</td>
-							<td>
-								<input
-									type="text"
-									value={whiskey.price}
-									onChange={(e) =>
-										handleUpdate(whiskey.id, "price", e.target.value)
-									}
-								/>
-							</td>
+
 							<td>
 								<input
 									type="checkbox"

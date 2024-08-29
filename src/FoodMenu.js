@@ -4,7 +4,6 @@ import Sandwich from "./Sandwich";
 import Appetizers from "./Appetizers";
 import Salad from "./Salad";
 import Slider from "./Slider";
-import Side from "./Sides";
 import menuData from "../src/menu.json";
 
 function FoodMenu() {
@@ -85,6 +84,7 @@ function FoodMenu() {
 					/>
 					Salads
 				</label>
+				
 				<label>
 					<input
 						type="checkbox"
@@ -94,15 +94,7 @@ function FoodMenu() {
 					/>
 					Sliders
 				</label>
-				<label>
-					<input
-						type="checkbox"
-						name="Sides"
-						checked={selectedSections.Sides}
-						onChange={handleSectionChange}
-					/>
-					Sides
-				</label>
+				
 			</div>
 			<div id="food-menu">
 				{selectedSections.Entrees && (
@@ -114,11 +106,12 @@ function FoodMenu() {
 				{selectedSections.Appetizers && (
 					<Appetizers items={filterItems(menu.Appetizers)} />
 				)}
-				{selectedSections.Salads && <Salad items={filterItems(menu.Salads)} />}
 				{selectedSections.Sliders && (
 					<Slider items={filterItems(menu.Sliders)} />
 				)}
-				{selectedSections.Sides && <Side items={filterItems(menu.Sides)} />}
+				{selectedSections.Salads && (
+					<Salad items={filterItems(menu.Salads)} />
+				)}
 			</div>
 		</div>
 	);

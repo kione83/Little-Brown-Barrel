@@ -12,7 +12,6 @@ function Appetizers({ items = [] }) {
 					<div className="food-price-desc">
 					<h3>{item.name}</h3>
 					<p>{item.description}</p>
-					<p>${item.price}</p>
 					</div>
 				</div>
 			))}

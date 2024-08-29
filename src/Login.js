@@ -12,7 +12,7 @@ function Login() {
     const handleSubmit = (event) => {
         event.preventDefault();
         // Add your authentication logic here
-        if (username === 'admin' && password === 'password') {
+        if (username === 'deluciasc1@gmail.com' && password === 'BrownBarrel123') {
             // Assuming successful login
             localStorage.setItem("isAuthenticated", "true");
             navigate(from, { replace: true });
